@@ -1,0 +1,6161 @@
+[
+    {
+        "dataset": "vstar",
+        "question": "Is the flag red or white?",
+        "options": {
+            "A": "The color of the flag is red.",
+            "B": "The color of the flag is white."
+        },
+        "image_id": "sa_10033",
+        "image_format": "jpg",
+        "target_object": [
+            "flag"
+        ],
+        "bbox": [
+            [
+                0.7324444444444445,
+                0.452,
+                0.7453333333333333,
+                0.506
+            ]
+        ],
+        "answer": "A:The color of the flag is white.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "What is the color of the plastic basin?",
+        "options": {
+            "A": "The color of the plastic basin is yellow.",
+            "B": "The color of the plastic basin is pink.",
+            "C": "The color of the plastic basin is blue.",
+            "D": "The color of the plastic basin is white."
+        },
+        "image_id": "sa_10052",
+        "image_format": "jpg",
+        "target_object": [
+            "plastic basin"
+        ],
+        "bbox": [
+            [
+                0.7822531798909752,
+                0.818,
+                0.8107207752877045,
+                0.8566666666666667
+            ]
+        ],
+        "answer": "A:The color of the plastic basin is pink.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "What is the color of the van?",
+        "options": {
+            "A": "The color of the van is silver.",
+            "B": "The color of the van is red.",
+            "C": "The color of the van is black.",
+            "D": "The color of the van is white."
+        },
+        "image_id": "sa_10204",
+        "image_format": "jpg",
+        "target_object": [
+            "van"
+        ],
+        "bbox": [
+            [
+                0.2311111111111111,
+                0.668,
+                0.25955555555555554,
+                0.6873333333333334
+            ]
+        ],
+        "answer": "A:The color of the van is red.",
+        "output_with_1.0_False_1": "D"
+    },
+    {
+        "dataset": "vstar",
+        "question": "Does the kid have curly hair or straight hair?",
+        "options": {
+            "A": "The kid has straight hair.",
+            "B": "The kid has curly hair."
+        },
+        "image_id": "sa_10225",
+        "image_format": "jpg",
+        "target_object": [
+            "kid"
+        ],
+        "bbox": [
+            [
+                0.9353333333333333,
+                0.5462506841817186,
+                0.9786666666666667,
+                0.6469622331691297
+            ]
+        ],
+        "answer": "A:The kid has curly hair.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "What is the color of the fire hydrant?",
+        "options": {
+            "A": "The color of the fire hydrant is red.",
+            "B": "The color of the fire hydrant is yellow.",
+            "C": "The color of the fire hydrant is black.",
+            "D": "The color of the fire hydrant is white."
+        },
+        "image_id": "sa_10415",
+        "image_format": "jpg",
+        "target_object": [
+            "fire hydrant"
+        ],
+        "bbox": [
+            [
+                0.17022222222222222,
+                0.8306666666666667,
+                0.18,
+                0.8593333333333333
+            ]
+        ],
+        "answer": "A:The color of the fire hydrant is yellow.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "What is the color of the paraglider?",
+        "options": {
+            "A": "The color of the paraglider is white.",
+            "B": "The color of the paraglider is blue.",
+            "C": "The color of the paraglider is pink.",
+            "D": "The color of the paraglider is red."
+        },
+        "image_id": "sa_10701",
+        "image_format": "jpg",
+        "target_object": [
+            "paraglider"
+        ],
+        "bbox": [
+            [
+                0.764,
+                0.3488888888888889,
+                0.7806666666666666,
+                0.36088888888888887
+            ]
+        ],
+        "answer": "A:The color of the paraglider is blue.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "How many people are in the oil painting?",
+        "options": {
+            "A": "There are 1 person in the oil painting.",
+            "B": "There are 2 people in the oil painting.",
+            "C": "There are no person in the oil painting.",
+            "D": "There are 4 people in the oil painting."
+        },
+        "image_id": "sa_10720",
+        "image_format": "jpg",
+        "target_object": [
+            "oil painting"
+        ],
+        "bbox": [
+            [
+                0.6214592274678111,
+                0.22866666666666666,
+                0.6540772532188841,
+                0.31
+            ]
+        ],
+        "answer": "A:There are 2 people in the oil painting.",
+        "output_with_1.0_False_1": "C"
+    },
+    {
+        "dataset": "vstar",
+        "question": "Is the flag blue and yellow or red and yellow?",
+        "options": {
+            "A": "The color of the flag is red and yellow.",
+            "B": "The color of the flag is blue and yellow."
+        },
+        "image_id": "sa_10885",
+        "image_format": "jpg",
+        "target_object": [
+            "flag"
+        ],
+        "bbox": [
+            [
+                0.1408888888888889,
+                0.32866666666666666,
+                0.15866666666666668,
+                0.402
+            ]
+        ],
+        "answer": "A:The color of the flag is blue and yellow.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "What is the color of the SUV car?",
+        "options": {
+            "A": "The color of the SUV car is black.",
+            "B": "The color of the SUV car is silver.",
+            "C": "The color of the SUV car is red.",
+            "D": "The color of the SUV car is blue."
+        },
+        "image_id": "sa_10919",
+        "image_format": "jpg",
+        "target_object": [
+            "SUV car"
+        ],
+        "bbox": [
+            [
+                0.9353333333333333,
+                0.3219056099732858,
+                0.9773333333333334,
+                0.336153161175423
+            ]
+        ],
+        "answer": "A:The color of the SUV car is silver.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "What kind of animal is in the poster?",
+        "options": {
+            "A": "The animal in the poster is a cat.",
+            "B": "The animal in the poster is a dove.",
+            "C": "The animal in the poster is a horse.",
+            "D": "The animal in the poster is a dog."
+        },
+        "image_id": "sa_10997",
+        "image_format": "jpg",
+        "target_object": [
+            "poster"
+        ],
+        "bbox": [
+            [
+                0.2941700044503783,
+                0.5866666666666667,
+                0.32665776591010237,
+                0.6866666666666666
+            ]
+        ],
+        "answer": "A:The animal in the poster is a dove.",
+        "output_with_1.0_False_1": "B"
+    },
+    {
+        "dataset": "vstar",
+        "question": "What is the color of the umbrella?",
+        "options": {
+            "A": "The color of the umbrella is white.",
+            "B": "The color of the umbrella is blue.",
+            "C": "The color of the umbrella is red.",
+            "D": "The color of the umbrella is black."
+        },
+        "image_id": "sa_11290",
+        "image_format": "jpg",
+        "target_object": [
+            "umbrella"
+        ],
+        "bbox": [
+            [
+                0.8804105310129406,
+                0.8213333333333334,
+                0.9067380633645694,
+                0.846
+            ]
+        ],
+        "answer": "A:The color of the umbrella is blue.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "What is the color of the earring?",
+        "options": {
+            "A": "The color of the earring is pink.",
+            "B": "The color of the earring is blue.",
+            "C": "The color of the earring is silver.",
+            "D": "The color of the earring is red."
+        },
+        "image_id": "sa_11370",
+        "image_format": "jpg",
+        "target_object": [
+            "earring"
+        ],
+        "bbox": [
+            [
+                0.6533333333333333,
+                0.27244444444444443,
+                0.6613333333333333,
+                0.29155555555555557
+            ]
+        ],
+        "answer": "A:The color of the earring is blue.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "What is the color of the watchband?",
+        "options": {
+            "A": "The color of the watchband is black.",
+            "B": "The color of the watchband is purple.",
+            "C": "The color of the watchband is blue.",
+            "D": "The color of the watchband is red."
+        },
+        "image_id": "sa_11405",
+        "image_format": "jpg",
+        "target_object": [
+            "watchband"
+        ],
+        "bbox": [
+            [
+                0.9433333333333334,
+                0.5225,
+                0.9693333333333334,
+                0.53
+            ]
+        ],
+        "answer": "A:The color of the watchband is purple.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "What is the color of the woman's bikini?",
+        "options": {
+            "A": "The color of the woman's bikini is red.",
+            "B": "The color of the woman's bikini is black.",
+            "C": "The color of the woman's bikini is white.",
+            "D": "The color of the woman's bikini is yellow."
+        },
+        "image_id": "sa_11528",
+        "image_format": "jpg",
+        "target_object": [
+            "woman's bikini"
+        ],
+        "bbox": [
+            [
+                0.11333333333333333,
+                0.583444001770695,
+                0.126,
+                0.5976095617529881
+            ]
+        ],
+        "answer": "A:The color of the woman's bikini is black.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "What is the color of the apples?",
+        "options": {
+            "A": "The color of the apples is red.",
+            "B": "The color of the apples is green.",
+            "C": "The color of the apples is dark red.",
+            "D": "The color of the apples is yellow."
+        },
+        "image_id": "sa_1244",
+        "image_format": "jpg",
+        "target_object": [
+            "apples"
+        ],
+        "bbox": [
+            [
+                0.7841463414634147,
+                0.5406666666666666,
+                0.8268292682926829,
+                0.5753333333333334
+            ]
+        ],
+        "answer": "A:The color of the apples is green.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "What is the color of the man's cap?",
+        "options": {
+            "A": "The color of the man's cap is white.",
+            "B": "The color of the man's cap is black.",
+            "C": "The color of the man's cap is green.",
+            "D": "The color of the man's cap is red."
+        },
+        "image_id": "sa_13337",
+        "image_format": "jpg",
+        "target_object": [
+            "man's cap"
+        ],
+        "bbox": [
+            [
+                0.3333333333333333,
+                0.5671111111111111,
+                0.346,
+                0.5733333333333334
+            ]
+        ],
+        "answer": "A:The color of the man's cap is black.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "What is the color of the clock?",
+        "options": {
+            "A": "The color of the clock is black.",
+            "B": "The color of the clock is green.",
+            "C": "The color of the clock is red.",
+            "D": "The color of the clock is yellow."
+        },
+        "image_id": "sa_16306",
+        "image_format": "jpg",
+        "target_object": [
+            "clock"
+        ],
+        "bbox": [
+            [
+                0.6086956521739131,
+                0.5546666666666666,
+                0.6282165039929015,
+                0.574
+            ]
+        ],
+        "answer": "A:The color of the clock is green.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "What is the color of the messenger bag?",
+        "options": {
+            "A": "The color of the messenger bag is brown.",
+            "B": "The color of the messenger bag is black.",
+            "C": "The color of the messenger bag is red.",
+            "D": "The color of the messenger bag is white."
+        },
+        "image_id": "sa_16825",
+        "image_format": "jpg",
+        "target_object": [
+            "messenger bag"
+        ],
+        "bbox": [
+            [
+                0.08179775280898877,
+                0.8633333333333333,
+                0.09348314606741573,
+                0.9093333333333333
+            ]
+        ],
+        "answer": "A:The color of the messenger bag is black.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "What is the color of the watch?",
+        "options": {
+            "A": "The color of the watch is black.",
+            "B": "The color of the watch is white.",
+            "C": "The color of the watch is silver.",
+            "D": "The color of the watch is blue."
+        },
+        "image_id": "sa_16854",
+        "image_format": "jpg",
+        "target_object": [
+            "watch"
+        ],
+        "bbox": [
+            [
+                0.21955555555555556,
+                0.594,
+                0.22577777777777777,
+                0.614
+            ]
+        ],
+        "answer": "A:The color of the watch is white.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "What is the color of the little girl's shirt?",
+        "options": {
+            "A": "The color of the little girl's shirt is white.",
+            "B": "The color of the little girl's shirt is pink.",
+            "C": "The color of the little girl's shirt is yellow.",
+            "D": "The color of the little girl's shirt is black."
+        },
+        "image_id": "sa_17",
+        "image_format": "jpg",
+        "target_object": [
+            "little girl's shirt"
+        ],
+        "bbox": [
+            [
+                0.8701500258665287,
+                0.7833333333333333,
+                0.8846352819451629,
+                0.804
+            ]
+        ],
+        "answer": "A:The color of the little girl's shirt is pink.",
+        "output_with_1.0_False_1": "B"
+    },
+    {
+        "dataset": "vstar",
+        "question": "What is the color of the truck?",
+        "options": {
+            "A": "The color of the truck is white.",
+            "B": "The color of the truck is yellow.",
+            "C": "The color of the truck is silver.",
+            "D": "The color of the truck is black."
+        },
+        "image_id": "sa_17108",
+        "image_format": "jpg",
+        "target_object": [
+            "truck"
+        ],
+        "bbox": [
+            [
+                0.46444444444444444,
+                0.6953333333333334,
+                0.5031111111111111,
+                0.7726666666666666
+            ]
+        ],
+        "answer": "A:The color of the truck is yellow.",
+        "output_with_1.0_False_1": "B"
+    },
+    {
+        "dataset": "vstar",
+        "question": "What is the color of the woman's dress?",
+        "options": {
+            "A": "The color of the woman's dress is pink.",
+            "B": "The color of the woman's dress is black.",
+            "C": "The color of the woman's dress is white.",
+            "D": "The color of the woman's dress is red."
+        },
+        "image_id": "sa_19272",
+        "image_format": "jpg",
+        "target_object": [
+            "woman's dress"
+        ],
+        "bbox": [
+            [
+                0.755,
+                0.8913333333333333,
+                0.768,
+                0.9293333333333333
+            ]
+        ],
+        "answer": "A:The color of the woman's dress is black.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "What is the color of the luggage?",
+        "options": {
+            "A": "The color of the luggage is yellow.",
+            "B": "The color of the luggage is red.",
+            "C": "The color of the luggage is black.",
+            "D": "The color of the luggage is green."
+        },
+        "image_id": "sa_19483",
+        "image_format": "jpg",
+        "target_object": [
+            "luggage"
+        ],
+        "bbox": [
+            [
+                0.1540880503144654,
+                0.5193333333333333,
+                0.20305480682839172,
+                0.6606666666666666
+            ]
+        ],
+        "answer": "A:The color of the luggage is red.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "What is the breed of the dog?",
+        "options": {
+            "A": "The breed of the dog is Dalmatian.",
+            "B": "The breed of the dog is golden retriever.",
+            "C": "The breed of the dog is corgi.",
+            "D": "The breed of the dog is Husky."
+        },
+        "image_id": "sa_20519",
+        "image_format": "jpg",
+        "target_object": [
+            "dog"
+        ],
+        "bbox": [
+            [
+                0.2878587196467991,
+                0.8333333333333334,
+                0.31567328918322296,
+                0.8593333333333333
+            ]
+        ],
+        "answer": "A:The breed of the dog is golden retriever.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "What is the color of the motorcycle?",
+        "options": {
+            "A": "The color of the motorcycle is black.",
+            "B": "The color of the motorcycle is orange.",
+            "C": "The color of the motorcycle is white.",
+            "D": "The color of the motorcycle is blue."
+        },
+        "image_id": "sa_23893",
+        "image_format": "jpg",
+        "target_object": [
+            "motorcycle"
+        ],
+        "bbox": [
+            [
+                0.054,
+                0.5366666666666666,
+                0.077,
+                0.5753333333333334
+            ]
+        ],
+        "answer": "A:The color of the motorcycle is orange.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "What is the color of the suitcase?",
+        "options": {
+            "A": "The color of the suitcase is black.",
+            "B": "The color of the suitcase is brown.",
+            "C": "The color of the suitcase is gray.",
+            "D": "The color of the suitcase is red."
+        },
+        "image_id": "sa_24546",
+        "image_format": "jpg",
+        "target_object": [
+            "suitcase"
+        ],
+        "bbox": [
+            [
+                0.627389951089373,
+                0.8006666666666666,
+                0.6456202756780791,
+                0.8173333333333334
+            ]
+        ],
+        "answer": "A:The color of the suitcase is brown.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "What is the color of the helmet?",
+        "options": {
+            "A": "The color of the helmet is white.",
+            "B": "The color of the helmet is red.",
+            "C": "The color of the helmet is yellow.",
+            "D": "The color of the helmet is blue."
+        },
+        "image_id": "sa_25212",
+        "image_format": "jpg",
+        "target_object": [
+            "helmet"
+        ],
+        "bbox": [
+            [
+                0.7925033467202142,
+                0.6626666666666666,
+                0.7960731816153503,
+                0.668
+            ]
+        ],
+        "answer": "A:The color of the helmet is red.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "What is the color of the flag?",
+        "options": {
+            "A": "The color of the flag is green and white.",
+            "B": "The color of the flag is blue and yellow.",
+            "C": "The color of the flag is blue and red.",
+            "D": "The color of the flag is red and yellow."
+        },
+        "image_id": "sa_25219",
+        "image_format": "jpg",
+        "target_object": [
+            "flag"
+        ],
+        "bbox": [
+            [
+                0.817,
+                0.76,
+                0.8305,
+                0.7806666666666666
+            ]
+        ],
+        "answer": "A:The color of the flag is blue and yellow.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "What is the color of the cyclist's box?",
+        "options": {
+            "A": "The color of the cyclist's box is black.",
+            "B": "The color of the cyclist's box is green.",
+            "C": "The color of the cyclist's box is yellow.",
+            "D": "The color of the cyclist's box is red."
+        },
+        "image_id": "sa_25835",
+        "image_format": "jpg",
+        "target_object": [
+            "cyclist"
+        ],
+        "bbox": [
+            [
+                0.15288888888888888,
+                0.49666666666666665,
+                0.1671111111111111,
+                0.538
+            ]
+        ],
+        "answer": "A:The color of the cyclist's box is green.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "What is the color of the flag?",
+        "options": {
+            "A": "The color of the flag is blue.",
+            "B": "The color of the flag is red.",
+            "C": "The color of the flag is yellow.",
+            "D": "The color of the flag is white."
+        },
+        "image_id": "sa_26085",
+        "image_format": "jpg",
+        "target_object": [
+            "flag"
+        ],
+        "bbox": [
+            [
+                0.037333333333333336,
+                0.5286666666666666,
+                0.05511111111111111,
+                0.5593333333333333
+            ]
+        ],
+        "answer": "A:The color of the flag is red.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "What is the color of the pink-haired woman's handbag?",
+        "options": {
+            "A": "The color of the pink-haired woman's handbag is brown.",
+            "B": "The color of the pink-haired woman's handbag is white.",
+            "C": "The color of the pink-haired woman's handbag is pink.",
+            "D": "The color of the pink-haired woman's handbag is red."
+        },
+        "image_id": "sa_26968",
+        "image_format": "jpg",
+        "target_object": [
+            "pink-haired woman"
+        ],
+        "bbox": [
+            [
+                0.58,
+                0.7033333333333334,
+                0.594,
+                0.7526666666666667
+            ]
+        ],
+        "answer": "A:The color of the pink-haired woman's handbag is white.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "What is the color of the life buoy?",
+        "options": {
+            "A": "The color of the life buoy is blue and white.",
+            "B": "The color of the life buoy is red and white.",
+            "C": "The color of the life buoy is green and white.",
+            "D": "The color of the life buoy is yellow and red."
+        },
+        "image_id": "sa_27986",
+        "image_format": "jpg",
+        "target_object": [
+            "life buoy"
+        ],
+        "bbox": [
+            [
+                0.6290174471992653,
+                0.692,
+                0.6366697275788185,
+                0.7073333333333334
+            ]
+        ],
+        "answer": "A:The color of the life buoy is red and white.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "What is the color of the bicycle?",
+        "options": {
+            "A": "The color of the bicycle is red.",
+            "B": "The color of the bicycle is yellow.",
+            "C": "The color of the bicycle is white.",
+            "D": "The color of the bicycle is black."
+        },
+        "image_id": "sa_28073",
+        "image_format": "jpg",
+        "target_object": [
+            "bicycle"
+        ],
+        "bbox": [
+            [
+                0.8271111111111111,
+                0.6353333333333333,
+                0.8471111111111111,
+                0.6553333333333333
+            ]
+        ],
+        "answer": "A:The color of the bicycle is yellow.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "What is the color of the backpack?",
+        "options": {
+            "A": "The color of the backpack is yellow.",
+            "B": "The color of the backpack is gray.",
+            "C": "The color of the backpack is white.",
+            "D": "The color of the backpack is red."
+        },
+        "image_id": "sa_28392",
+        "image_format": "jpg",
+        "target_object": [
+            "backpack"
+        ],
+        "bbox": [
+            [
+                0.010222222222222223,
+                0.7546666666666667,
+                0.02666666666666667,
+                0.7733333333333333
+            ]
+        ],
+        "answer": "A:The color of the backpack is gray.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "What is the color of the trash can?",
+        "options": {
+            "A": "The color of the trash can is green.",
+            "B": "The color of the trash can is black.",
+            "C": "The color of the trash can is yellow.",
+            "D": "The color of the trash can is silver."
+        },
+        "image_id": "sa_29509",
+        "image_format": "jpg",
+        "target_object": [
+            "trash can"
+        ],
+        "bbox": [
+            [
+                0.9129858657243817,
+                0.668,
+                0.9174028268551236,
+                0.6806666666666666
+            ]
+        ],
+        "answer": "A:The color of the trash can is black.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "What is the color of the plastic stool?",
+        "options": {
+            "A": "The color of the plastic stool is blue.",
+            "B": "The color of the plastic stool is white.",
+            "C": "The color of the plastic stool is red.",
+            "D": "The color of the plastic stool is black."
+        },
+        "image_id": "sa_29744",
+        "image_format": "jpg",
+        "target_object": [
+            "plastic stool"
+        ],
+        "bbox": [
+            [
+                0.22,
+                0.5613333333333334,
+                0.23066666666666666,
+                0.5753333333333334
+            ]
+        ],
+        "answer": "A:The color of the plastic stool is white.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "What is the color of the telephone?",
+        "options": {
+            "A": "The color of the telephone is blue.",
+            "B": "The color of the telephone is orange.",
+            "C": "The color of the telephone is green.",
+            "D": "The color of the telephone is white."
+        },
+        "image_id": "sa_30034",
+        "image_format": "jpg",
+        "target_object": [
+            "telephone"
+        ],
+        "bbox": [
+            [
+                0.3582222222222222,
+                0.7173333333333334,
+                0.36933333333333335,
+                0.736
+            ]
+        ],
+        "answer": "A:The color of the telephone is orange.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "What is the color of the bicycle?",
+        "options": {
+            "A": "The color of the bicycle is black.",
+            "B": "The color of the bicycle is red.",
+            "C": "The color of the bicycle is white.",
+            "D": "The color of the bicycle is yellow."
+        },
+        "image_id": "sa_30179",
+        "image_format": "jpg",
+        "target_object": [
+            "bicycle"
+        ],
+        "bbox": [
+            [
+                0.5991111111111111,
+                0.902,
+                0.6195555555555555,
+                0.9293333333333333
+            ]
+        ],
+        "answer": "A:The color of the bicycle is red.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "What is the color of the man's cap?",
+        "options": {
+            "A": "The color of the man's cap is blue.",
+            "B": "The color of the man's cap is white.",
+            "C": "The color of the man's cap is black.",
+            "D": "The color of the man's cap is red."
+        },
+        "image_id": "sa_30411",
+        "image_format": "jpg",
+        "target_object": [
+            "man's cap"
+        ],
+        "bbox": [
+            [
+                0.010186005314437556,
+                0.5973333333333334,
+                0.01682905225863596,
+                0.6033333333333334
+            ]
+        ],
+        "answer": "A:The color of the man's cap is white.",
+        "output_with_1.0_False_1": "D"
+    },
+    {
+        "dataset": "vstar",
+        "question": "What is the color of the scarf?",
+        "options": {
+            "A": "The color of the scarf is white.",
+            "B": "The color of the scarf is green.",
+            "C": "The color of the scarf is yellow.",
+            "D": "The color of the scarf is red."
+        },
+        "image_id": "sa_30935",
+        "image_format": "jpg",
+        "target_object": [
+            "scarf"
+        ],
+        "bbox": [
+            [
+                0.48488888888888887,
+                0.494,
+                0.5071111111111111,
+                0.5106666666666667
+            ]
+        ],
+        "answer": "A:The color of the scarf is green.",
+        "output_with_1.0_False_1": "C"
+    },
+    {
+        "dataset": "vstar",
+        "question": "What is the color of the hat?",
+        "options": {
+            "A": "The color of the hat is black.",
+            "B": "The color of the hat is white.",
+            "C": "The color of the hat is pink.",
+            "D": "The color of the hat is yellow."
+        },
+        "image_id": "sa_31451",
+        "image_format": "jpg",
+        "target_object": [
+            "hat"
+        ],
+        "bbox": [
+            [
+                0.3932683790965456,
+                0.9086666666666666,
+                0.4012400354295837,
+                0.9166666666666666
+            ]
+        ],
+        "answer": "A:The color of the hat is white.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "What is the color of the handbag?",
+        "options": {
+            "A": "The color of the handbag is white.",
+            "B": "The color of the handbag is yellow.",
+            "C": "The color of the handbag is red.",
+            "D": "The color of the handbag is black."
+        },
+        "image_id": "sa_31511",
+        "image_format": "jpg",
+        "target_object": [
+            "handbag"
+        ],
+        "bbox": [
+            [
+                0.9093812375249501,
+                0.6733333333333333,
+                0.9165668662674651,
+                0.6966666666666667
+            ]
+        ],
+        "answer": "A:The color of the handbag is yellow.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "What is the color of the Apple logo?",
+        "options": {
+            "A": "The color of the Apple logo is white.",
+            "B": "The color of the Apple logo is polychromatic.",
+            "C": "The color of the Apple logo is silver.",
+            "D": "The color of the Apple logo is red."
+        },
+        "image_id": "sa_33492",
+        "image_format": "jpg",
+        "target_object": [
+            "Apple logo"
+        ],
+        "bbox": [
+            [
+                0.07644444444444444,
+                0.14533333333333334,
+                0.08488888888888889,
+                0.162
+            ]
+        ],
+        "answer": "A:The color of the Apple logo is polychromatic.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "What is the pose of the woman with yellow backpack?",
+        "options": {
+            "A": "The pose of the woman with yellow backpack is standing.",
+            "B": "The pose of the woman with yellow backpack is squatting.",
+            "C": "The pose of the woman with yellow backpack is walking.",
+            "D": "The pose of the woman with yellow backpack is running."
+        },
+        "image_id": "sa_33579",
+        "image_format": "jpg",
+        "target_object": [
+            "woman with yellow backpack"
+        ],
+        "bbox": [
+            [
+                0.6013333333333334,
+                0.20333333333333334,
+                0.6457777777777778,
+                0.30533333333333335
+            ]
+        ],
+        "answer": "A:The pose of the woman with yellow backpack is squatting.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "What is the color of the bus?",
+        "options": {
+            "A": "The color of the bus is red.",
+            "B": "The color of the bus is white.",
+            "C": "The color of the bus is blue.",
+            "D": "The color of the bus is yellow."
+        },
+        "image_id": "sa_34040",
+        "image_format": "jpg",
+        "target_object": [
+            "bus"
+        ],
+        "bbox": [
+            [
+                0.43666666666666665,
+                0.5364444444444444,
+                0.516,
+                0.5608888888888889
+            ]
+        ],
+        "answer": "A:The color of the bus is white.",
+        "output_with_1.0_False_1": "B"
+    },
+    {
+        "dataset": "vstar",
+        "question": "What is the color of the cart?",
+        "options": {
+            "A": "The color of the cart is black.",
+            "B": "The color of the cart is green.",
+            "C": "The color of the cart is white.",
+            "D": "The color of the cart is red."
+        },
+        "image_id": "sa_3568",
+        "image_format": "jpg",
+        "target_object": [
+            "cart"
+        ],
+        "bbox": [
+            [
+                0.6862222222222222,
+                0.646,
+                0.7426666666666667,
+                0.702
+            ]
+        ],
+        "answer": "A:The color of the cart is green.",
+        "output_with_1.0_False_1": "C"
+    },
+    {
+        "dataset": "vstar",
+        "question": "What is the color of the scooter?",
+        "options": {
+            "A": "The color of the scooter is black.",
+            "B": "The color of the scooter is orange.",
+            "C": "The color of the scooter is green.",
+            "D": "The color of the scooter is blue."
+        },
+        "image_id": "sa_35748",
+        "image_format": "jpg",
+        "target_object": [
+            "scooter"
+        ],
+        "bbox": [
+            [
+                0.7776789684304135,
+                0.5966666666666667,
+                0.8012449977767897,
+                0.6293333333333333
+            ]
+        ],
+        "answer": "A:The color of the scooter is orange.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "What is the cartoon character on the clock.",
+        "options": {
+            "A": "The cartoon character on the clock is Bugs Bunny.",
+            "B": "The cartoon character on the clock is Mickey Mouse.",
+            "C": "The cartoon character on the clock is SpongeBob.",
+            "D": "The cartoon character on the clock is Donald Duck."
+        },
+        "image_id": "sa_37675",
+        "image_format": "jpg",
+        "target_object": [
+            "clock"
+        ],
+        "bbox": [
+            [
+                0.3393333333333333,
+                0.18466284706919348,
+                0.46266666666666667,
+                0.25738210665491407
+            ]
+        ],
+        "answer": "A:The cartoon character on the clock is Mickey Mouse.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "What is the color of the car?",
+        "options": {
+            "A": "The color of the car is white.",
+            "B": "The color of the car is black.",
+            "C": "The color of the car is silver.",
+            "D": "The color of the car is red."
+        },
+        "image_id": "sa_38155",
+        "image_format": "jpg",
+        "target_object": [
+            "car"
+        ],
+        "bbox": [
+            [
+                0.09830960854092527,
+                0.49133333333333334,
+                0.14590747330960854,
+                0.518
+            ]
+        ],
+        "answer": "A:The color of the car is black.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "What is the color of the cyclist's bag?",
+        "options": {
+            "A": "The color of the cyclist's bag is white and red.",
+            "B": "The color of the cyclist's bag is orange and black.",
+            "C": "The color of the cyclist's bag is red and blue.",
+            "D": "The color of the cyclist's bag is blue and gray."
+        },
+        "image_id": "sa_38195",
+        "image_format": "jpg",
+        "target_object": [
+            "cyclist"
+        ],
+        "bbox": [
+            [
+                0.6891951978657181,
+                0.7413333333333333,
+                0.7087594486438417,
+                0.788
+            ]
+        ],
+        "answer": "A:The color of the cyclist's bag is orange and black.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "What is the color of the dog?",
+        "options": {
+            "A": "The color of the dog is brown.",
+            "B": "The color of the dog is black.",
+            "C": "The color of the dog is white.",
+            "D": "The color of the dog is gray."
+        },
+        "image_id": "sa_38610",
+        "image_format": "jpg",
+        "target_object": [
+            "dog"
+        ],
+        "bbox": [
+            [
+                0.5435555555555556,
+                0.42866666666666664,
+                0.5564444444444444,
+                0.44066666666666665
+            ]
+        ],
+        "answer": "A:The color of the dog is black.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "What is the color of the woman's handbag?",
+        "options": {
+            "A": "The color of the woman's handbag is black.",
+            "B": "The color of the woman's handbag is brown.",
+            "C": "The color of the woman's handbag is white.",
+            "D": "The color of the woman's handbag is red."
+        },
+        "image_id": "sa_38669",
+        "image_format": "jpg",
+        "target_object": [
+            "woman's handbag"
+        ],
+        "bbox": [
+            [
+                0.9775689602909973,
+                0.6166666666666667,
+                0.9884813579872689,
+                0.6726666666666666
+            ]
+        ],
+        "answer": "A:The color of the woman's handbag is brown.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "What is the color of the tissue box?",
+        "options": {
+            "A": "The color of the tissue box is gray.",
+            "B": "The color of the tissue box is blue.",
+            "C": "The color of the tissue box is black.",
+            "D": "The color of the tissue box is white."
+        },
+        "image_id": "sa_39518",
+        "image_format": "jpg",
+        "target_object": [
+            "tissue box"
+        ],
+        "bbox": [
+            [
+                0.6328888888888888,
+                0.49333333333333335,
+                0.6586666666666666,
+                0.518
+            ]
+        ],
+        "answer": "A:The color of the tissue box is blue.",
+        "output_with_1.0_False_1": "D"
+    },
+    {
+        "dataset": "vstar",
+        "question": "What is the color of the helmet?",
+        "options": {
+            "A": "The color of the helmet is blue.",
+            "B": "The color of the helmet is green.",
+            "C": "The color of the helmet is white.",
+            "D": "The color of the helmet is red."
+        },
+        "image_id": "sa_39678",
+        "image_format": "jpg",
+        "target_object": [
+            "helmet"
+        ],
+        "bbox": [
+            [
+                0.29688888888888887,
+                0.548,
+                0.30533333333333335,
+                0.5606666666666666
+            ]
+        ],
+        "answer": "A:The color of the helmet is green.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "What is the color of the car?",
+        "options": {
+            "A": "The color of the car is black.",
+            "B": "The color of the car is silver.",
+            "C": "The color of the car is blue.",
+            "D": "The color of the car is red."
+        },
+        "image_id": "sa_4020",
+        "image_format": "jpg",
+        "target_object": [
+            "car"
+        ],
+        "bbox": [
+            [
+                0.8766666666666667,
+                0.5482416591523895,
+                0.9533333333333334,
+                0.5788999098286745
+            ]
+        ],
+        "answer": "A:The color of the car is silver.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "What is the color of the woman's scarf?",
+        "options": {
+            "A": "The color of the woman's scarf is white.",
+            "B": "The color of the woman's scarf is red.",
+            "C": "The color of the woman's scarf is green.",
+            "D": "The color of the woman's scarf is yellow."
+        },
+        "image_id": "sa_40973",
+        "image_format": "jpg",
+        "target_object": [
+            "woman's scarf"
+        ],
+        "bbox": [
+            [
+                0.8111111111111111,
+                0.45666666666666667,
+                0.8248888888888889,
+                0.4746666666666667
+            ]
+        ],
+        "answer": "A:The color of the woman's scarf is red.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "What is the color of the guard's glove?",
+        "options": {
+            "A": "The color of the guard's glove is brown.",
+            "B": "The color of the guard's glove is white.",
+            "C": "The color of the guard's glove is black.",
+            "D": "The color of the guard's glove is blue."
+        },
+        "image_id": "sa_41908",
+        "image_format": "jpg",
+        "target_object": [
+            "guard's glove"
+        ],
+        "bbox": [
+            [
+                0.8742222222222222,
+                0.8166666666666667,
+                0.8808888888888889,
+                0.83
+            ]
+        ],
+        "answer": "A:The color of the guard's glove is white.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "What is the color of the chair?",
+        "options": {
+            "A": "The color of the chair is black.",
+            "B": "The color of the chair is yellow.",
+            "C": "The color of the chair is white.",
+            "D": "The color of the chair is green."
+        },
+        "image_id": "sa_4203",
+        "image_format": "jpg",
+        "target_object": [
+            "chair"
+        ],
+        "bbox": [
+            [
+                0.058333333333333334,
+                0.31533333333333335,
+                0.089,
+                0.366
+            ]
+        ],
+        "answer": "A:The color of the chair is yellow.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "What is the color of the handbag?",
+        "options": {
+            "A": "The color of the handbag is red.",
+            "B": "The color of the handbag is white.",
+            "C": "The color of the handbag is black.",
+            "D": "The color of the handbag is brown."
+        },
+        "image_id": "sa_42562",
+        "image_format": "jpg",
+        "target_object": [
+            "handbag"
+        ],
+        "bbox": [
+            [
+                0.7724444444444445,
+                0.6293333333333333,
+                0.7813333333333333,
+                0.662
+            ]
+        ],
+        "answer": "A:The color of the handbag is white.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "What is the color of the helmet?",
+        "options": {
+            "A": "The color of the helmet is black.",
+            "B": "The color of the helmet is white.",
+            "C": "The color of the helmet is red.",
+            "D": "The color of the helmet is yellow."
+        },
+        "image_id": "sa_42585",
+        "image_format": "jpg",
+        "target_object": [
+            "helmet"
+        ],
+        "bbox": [
+            [
+                0.3472065991751031,
+                0.8566666666666667,
+                0.35583052118485187,
+                0.876
+            ]
+        ],
+        "answer": "A:The color of the helmet is white.",
+        "output_with_1.0_False_1": "C"
+    },
+    {
+        "dataset": "vstar",
+        "question": "What is the color of the car?",
+        "options": {
+            "A": "The color of the car is black.",
+            "B": "The color of the car is white.",
+            "C": "The color of the car is silver.",
+            "D": "The color of the car is red."
+        },
+        "image_id": "sa_43391",
+        "image_format": "jpg",
+        "target_object": [
+            "car"
+        ],
+        "bbox": [
+            [
+                0.07789630364673779,
+                0.6133333333333333,
+                0.1046886628628132,
+                0.6466666666666666
+            ]
+        ],
+        "answer": "A:The color of the car is white.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "What is the color of the plastic stool?",
+        "options": {
+            "A": "The color of the plastic stool is white.",
+            "B": "The color of the plastic stool is blue.",
+            "C": "The color of the plastic stool is black.",
+            "D": "The color of the plastic stool is red."
+        },
+        "image_id": "sa_44097",
+        "image_format": "jpg",
+        "target_object": [
+            "plastic stool"
+        ],
+        "bbox": [
+            [
+                0.8116,
+                0.7973333333333333,
+                0.8296,
+                0.8273333333333334
+            ]
+        ],
+        "answer": "A:The color of the plastic stool is blue.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "What is the color of the slippers?",
+        "options": {
+            "A": "The color of the slippers is red.",
+            "B": "The color of the slippers is blue.",
+            "C": "The color of the slippers is black.",
+            "D": "The color of the slippers is pink."
+        },
+        "image_id": "sa_4460",
+        "image_format": "jpg",
+        "target_object": [
+            "slippers"
+        ],
+        "bbox": [
+            [
+                0.5051088405153266,
+                0.5873333333333334,
+                0.5442025766326077,
+                0.6286666666666667
+            ]
+        ],
+        "answer": "A:The color of the slippers is blue.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "Is the color of the motorcycle red or blue?",
+        "options": {
+            "A": "The color of the motorcycle is red.",
+            "B": "The color of the motorcycle is blue."
+        },
+        "image_id": "sa_4658",
+        "image_format": "jpg",
+        "target_object": [
+            "motorcycle"
+        ],
+        "bbox": [
+            [
+                0.0,
+                0.6713333333333333,
+                0.044444444444444446,
+                0.732
+            ]
+        ],
+        "answer": "A:The color of the motorcycle is blue.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "What is the material of the glove?",
+        "options": {
+            "A": "The material of the glove is cotton.",
+            "B": "The material of the glove is rubber.",
+            "C": "The material of the glove is leather.",
+            "D": "The material of the glove is kevlar."
+        },
+        "image_id": "sa_4690",
+        "image_format": "jpg",
+        "target_object": [
+            "glove"
+        ],
+        "bbox": [
+            [
+                0.282,
+                0.09466666666666666,
+                0.3595,
+                0.19933333333333333
+            ]
+        ],
+        "answer": "A:The material of the glove is rubber.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "What kind of animal is on the blue sail?",
+        "options": {
+            "A": "The animal on the blue sail is a bird.",
+            "B": "The animal on the blue sail is a spider.",
+            "C": "The animal on the blue sail is a fish.",
+            "D": "The animal on the blue sail is a dog."
+        },
+        "image_id": "sa_47397",
+        "image_format": "jpg",
+        "target_object": [
+            "blue sail"
+        ],
+        "bbox": [
+            [
+                0.29162357807652534,
+                0.29653220099079974,
+                0.3167873147190624,
+                0.39490445859872614
+            ]
+        ],
+        "answer": "A:The animal on the blue sail is a spider.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "What is the color of the flower?",
+        "options": {
+            "A": "The color of the flower is red.",
+            "B": "The color of the flower is white.",
+            "C": "The color of the flower is pink.",
+            "D": "The color of the flower is yellow."
+        },
+        "image_id": "sa_4988",
+        "image_format": "jpg",
+        "target_object": [
+            "flower"
+        ],
+        "bbox": [
+            [
+                0.6026666666666667,
+                0.7153333333333334,
+                0.6337777777777778,
+                0.7373333333333333
+            ]
+        ],
+        "answer": "A:The color of the flower is white.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "What is the color of the cart?",
+        "options": {
+            "A": "The color of the cart is white.",
+            "B": "The color of the cart is green.",
+            "C": "The color of the cart is silver.",
+            "D": "The color of the cart is black."
+        },
+        "image_id": "sa_50442",
+        "image_format": "jpg",
+        "target_object": [
+            "cart"
+        ],
+        "bbox": [
+            [
+                0.10355555555555555,
+                0.498,
+                0.1288888888888889,
+                0.5406666666666666
+            ]
+        ],
+        "answer": "A:The color of the cart is green.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "What is the color of the bucket?",
+        "options": {
+            "A": "The color of the bucket is black.",
+            "B": "The color of the bucket is white.",
+            "C": "The color of the bucket is green.",
+            "D": "The color of the bucket is red."
+        },
+        "image_id": "sa_50451",
+        "image_format": "jpg",
+        "target_object": [
+            "bucket"
+        ],
+        "bbox": [
+            [
+                0.24133333333333334,
+                0.688,
+                0.2617777777777778,
+                0.7173333333333334
+            ]
+        ],
+        "answer": "A:The color of the bucket is white.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "What is the color of the swim ring?",
+        "options": {
+            "A": "The color of the swim ring is white.",
+            "B": "The color of the swim ring is orange.",
+            "C": "The color of the swim ring is blue.",
+            "D": "The color of the swim ring is yellow."
+        },
+        "image_id": "sa_51837",
+        "image_format": "jpg",
+        "target_object": [
+            "swim ring"
+        ],
+        "bbox": [
+            [
+                0.0519768991559307,
+                0.482,
+                0.07063527321190582,
+                0.5113333333333333
+            ]
+        ],
+        "answer": "A:The color of the swim ring is orange.",
+        "output_with_1.0_False_1": "C"
+    },
+    {
+        "dataset": "vstar",
+        "question": "What is the color of the pet collar?",
+        "options": {
+            "A": "The color of the pet collar is black.",
+            "B": "The color of the pet collar is purple.",
+            "C": "The color of the pet collar is red.",
+            "D": "The color of the pet collar is yellow."
+        },
+        "image_id": "sa_52155",
+        "image_format": "jpg",
+        "target_object": [
+            "pet collar"
+        ],
+        "bbox": [
+            [
+                0.31955555555555554,
+                0.484,
+                0.3288888888888889,
+                0.5286666666666666
+            ]
+        ],
+        "answer": "A:The color of the pet collar is purple.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "Does the flag have two or three colors?",
+        "options": {
+            "A": "The flag has two colors.",
+            "B": "The flag has three colors."
+        },
+        "image_id": "sa_5281",
+        "image_format": "jpg",
+        "target_object": [
+            "flag"
+        ],
+        "bbox": [
+            [
+                0.8675555555555555,
+                0.7633333333333333,
+                0.896,
+                0.8186666666666667
+            ]
+        ],
+        "answer": "A:The flag has three colors.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "What is the color of the man's cap?",
+        "options": {
+            "A": "The color of the man's cap is red.",
+            "B": "The color of the man's cap is gray.",
+            "C": "The color of the man's cap is green.",
+            "D": "The color of the man's cap is yellow."
+        },
+        "image_id": "sa_5346",
+        "image_format": "jpg",
+        "target_object": [
+            "man's cap"
+        ],
+        "bbox": [
+            [
+                0.6325443786982249,
+                0.6533333333333333,
+                0.6585798816568047,
+                0.6653333333333333
+            ]
+        ],
+        "answer": "A:The color of the man's cap is gray.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "What is the color of the parachute?",
+        "options": {
+            "A": "The color of the parachute is blue.",
+            "B": "The color of the parachute is yellow.",
+            "C": "The color of the parachute is green.",
+            "D": "The color of the parachute is red."
+        },
+        "image_id": "sa_5387",
+        "image_format": "jpg",
+        "target_object": [
+            "parachute"
+        ],
+        "bbox": [
+            [
+                0.5755555555555556,
+                0.05333333333333334,
+                0.5933333333333334,
+                0.08866666666666667
+            ]
+        ],
+        "answer": "A:The color of the parachute is yellow.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "What is the color of the woman's shirt?",
+        "options": {
+            "A": "The color of the woman's shirt is pink.",
+            "B": "The color of the woman's shirt is purple.",
+            "C": "The color of the woman's shirt is blue.",
+            "D": "The color of the woman's shirt is white."
+        },
+        "image_id": "sa_5413",
+        "image_format": "jpg",
+        "target_object": [
+            "woman's shirt"
+        ],
+        "bbox": [
+            [
+                0.20614469772051536,
+                0.7806666666666666,
+                0.22398414271555997,
+                0.8106666666666666
+            ]
+        ],
+        "answer": "A:The color of the woman's shirt is purple.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "What is the color of the electric rickshaw?",
+        "options": {
+            "A": "The color of the electric rickshaw is green.",
+            "B": "The color of the electric rickshaw is yellow.",
+            "C": "The color of the electric rickshaw is black.",
+            "D": "The color of the electric rickshaw is red."
+        },
+        "image_id": "sa_55332",
+        "image_format": "jpg",
+        "target_object": [
+            "electric rickshaw"
+        ],
+        "bbox": [
+            [
+                0.14866666666666667,
+                0.9142222222222223,
+                0.18266666666666667,
+                0.9342222222222222
+            ]
+        ],
+        "answer": "A:The color of the electric rickshaw is yellow.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "What is the color of the flute?",
+        "options": {
+            "A": "The color of the flute is white.",
+            "B": "The color of the flute is black.",
+            "C": "The color of the flute is silver.",
+            "D": "The color of the flute is yellow."
+        },
+        "image_id": "sa_55722",
+        "image_format": "jpg",
+        "target_object": [
+            "flute"
+        ],
+        "bbox": [
+            [
+                0.6703736654804271,
+                0.764,
+                0.7055160142348754,
+                0.792
+            ]
+        ],
+        "answer": "A:The color of the flute is black.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "What is the color of the bag?",
+        "options": {
+            "A": "The color of the bag is white.",
+            "B": "The color of the bag is purple.",
+            "C": "The color of the bag is black.",
+            "D": "The color of the bag is yellow."
+        },
+        "image_id": "sa_56573",
+        "image_format": "jpg",
+        "target_object": [
+            "bag"
+        ],
+        "bbox": [
+            [
+                0.2995555555555556,
+                0.676,
+                0.30844444444444447,
+                0.702
+            ]
+        ],
+        "answer": "A:The color of the bag is purple.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "What is the color of the water bottle?",
+        "options": {
+            "A": "The color of the water bottle is blue.",
+            "B": "The color of the water bottle is red.",
+            "C": "The color of the water bottle is white.",
+            "D": "The color of the water bottle is black."
+        },
+        "image_id": "sa_5674",
+        "image_format": "jpg",
+        "target_object": [
+            "water bottle"
+        ],
+        "bbox": [
+            [
+                0.01911111111111111,
+                0.42133333333333334,
+                0.030666666666666665,
+                0.4666666666666667
+            ]
+        ],
+        "answer": "A:The color of the water bottle is red.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "What is the color of the tablecloth?",
+        "options": {
+            "A": "The color of the tablecloth is white.",
+            "B": "The color of the tablecloth is green.",
+            "C": "The color of the tablecloth is red.",
+            "D": "The color of the tablecloth is blue."
+        },
+        "image_id": "sa_58805",
+        "image_format": "jpg",
+        "target_object": [
+            "tablecloth"
+        ],
+        "bbox": [
+            [
+                0.8323699421965318,
+                0.858,
+                0.8599377501111605,
+                0.8906666666666667
+            ]
+        ],
+        "answer": "A:The color of the tablecloth is green.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "What is the color of the dress?",
+        "options": {
+            "A": "The color of the dress is pink.",
+            "B": "The color of the dress is red.",
+            "C": "The color of the dress is black.",
+            "D": "The color of the dress is white."
+        },
+        "image_id": "sa_59482",
+        "image_format": "jpg",
+        "target_object": [
+            "dress"
+        ],
+        "bbox": [
+            [
+                0.7848888888888889,
+                0.30933333333333335,
+                0.7977777777777778,
+                0.37266666666666665
+            ]
+        ],
+        "answer": "A:The color of the dress is red.",
+        "output_with_1.0_False_1": "D"
+    },
+    {
+        "dataset": "vstar",
+        "question": "What is the color of the dog?",
+        "options": {
+            "A": "The color of the dog is brown.",
+            "B": "The color of the dog is black and white.",
+            "C": "The color of the dog is gray.",
+            "D": "The color of the dog is yellow."
+        },
+        "image_id": "sa_59664",
+        "image_format": "jpg",
+        "target_object": [
+            "dog"
+        ],
+        "bbox": [
+            [
+                0.12071103761885077,
+                0.6006666666666667,
+                0.13145928069450186,
+                0.612
+            ]
+        ],
+        "answer": "A:The color of the dog is black and white.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "What is the color of the umbrella?",
+        "options": {
+            "A": "The color of the umbrella is red.",
+            "B": "The color of the umbrella is purple.",
+            "C": "The color of the umbrella is black.",
+            "D": "The color of the umbrella is blue."
+        },
+        "image_id": "sa_60786",
+        "image_format": "jpg",
+        "target_object": [
+            "umbrella"
+        ],
+        "bbox": [
+            [
+                0.7353333333333333,
+                0.6113342257920571,
+                0.7506666666666667,
+                0.6207050423917894
+            ]
+        ],
+        "answer": "A:The color of the umbrella is purple.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "What is the color of the baby carriage?",
+        "options": {
+            "A": "The color of the baby carriage is green.",
+            "B": "The color of the baby carriage is black.",
+            "C": "The color of the baby carriage is red.",
+            "D": "The color of the baby carriage is blue."
+        },
+        "image_id": "sa_63876",
+        "image_format": "jpg",
+        "target_object": [
+            "baby carriage"
+        ],
+        "bbox": [
+            [
+                0.42533333333333334,
+                0.496,
+                0.4613333333333333,
+                0.5215
+            ]
+        ],
+        "answer": "A:The color of the baby carriage is black.",
+        "output_with_1.0_False_1": "C"
+    },
+    {
+        "dataset": "vstar",
+        "question": "Is the color of the motorcycle orange or green?",
+        "options": {
+            "A": "The color of the motorcycle is green.",
+            "B": "The color of the motorcycle is orange."
+        },
+        "image_id": "sa_6422",
+        "image_format": "jpg",
+        "target_object": [
+            "motorcycle"
+        ],
+        "bbox": [
+            [
+                0.18222222222222223,
+                0.49333333333333335,
+                0.23066666666666666,
+                0.5606666666666666
+            ]
+        ],
+        "answer": "A:The color of the motorcycle is orange.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "What is the color of the umbrella?",
+        "options": {
+            "A": "The color of the umbrella is black.",
+            "B": "The color of the umbrella is purple.",
+            "C": "The color of the umbrella is red.",
+            "D": "The color of the umbrella is blue."
+        },
+        "image_id": "sa_64897",
+        "image_format": "jpg",
+        "target_object": [
+            "umbrella"
+        ],
+        "bbox": [
+            [
+                0.13664596273291926,
+                0.528,
+                0.1526175687666371,
+                0.5466666666666666
+            ]
+        ],
+        "answer": "A:The color of the umbrella is purple.",
+        "output_with_1.0_False_1": "D"
+    },
+    {
+        "dataset": "vstar",
+        "question": "What is the color of the shovel?",
+        "options": {
+            "A": "The color of the shovel is black.",
+            "B": "The color of the shovel is blue.",
+            "C": "The color of the shovel is red.",
+            "D": "The color of the shovel is yellow."
+        },
+        "image_id": "sa_65370",
+        "image_format": "jpg",
+        "target_object": [
+            "shovel"
+        ],
+        "bbox": [
+            [
+                0.3897777777777778,
+                0.8226666666666667,
+                0.3942222222222222,
+                0.8393333333333334
+            ]
+        ],
+        "answer": "A:The color of the shovel is blue.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "What is the color of the toothbrush?",
+        "options": {
+            "A": "The color of the toothbrush is green.",
+            "B": "The color of the toothbrush is red.",
+            "C": "The color of the toothbrush is yellow.",
+            "D": "The color of the toothbrush is blue."
+        },
+        "image_id": "sa_65476",
+        "image_format": "jpg",
+        "target_object": [
+            "toothbrush"
+        ],
+        "bbox": [
+            [
+                0.09,
+                0.41933333333333334,
+                0.10666666666666667,
+                0.4246666666666667
+            ]
+        ],
+        "answer": "A:The color of the toothbrush is red.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "What is the color of the bottle cap?",
+        "options": {
+            "A": "The color of the bottle cap is blue.",
+            "B": "The color of the bottle cap is red.",
+            "C": "The color of the bottle cap is white.",
+            "D": "The color of the bottle cap is orange."
+        },
+        "image_id": "sa_66471",
+        "image_format": "jpg",
+        "target_object": [
+            "bottle cap"
+        ],
+        "bbox": [
+            [
+                0.4608888888888889,
+                0.5046666666666667,
+                0.4662222222222222,
+                0.512
+            ]
+        ],
+        "answer": "A:The color of the bottle cap is red.",
+        "output_with_1.0_False_1": "D"
+    },
+    {
+        "dataset": "vstar",
+        "question": "What is the color of the soda can?",
+        "options": {
+            "A": "The color of the soda can is silver.",
+            "B": "The color of the soda can is green.",
+            "C": "The color of the soda can is red.",
+            "D": "The color of the soda can is white."
+        },
+        "image_id": "sa_66657",
+        "image_format": "jpg",
+        "target_object": [
+            "soda can"
+        ],
+        "bbox": [
+            [
+                0.0520694259012016,
+                0.8226666666666667,
+                0.05562972852692479,
+                0.8306666666666667
+            ]
+        ],
+        "answer": "A:The color of the soda can is green.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "What is the color of the motorcycle?",
+        "options": {
+            "A": "The color of the motorcycle is red.",
+            "B": "The color of the motorcycle is black.",
+            "C": "The color of the motorcycle is orange.",
+            "D": "The color of the motorcycle is white."
+        },
+        "image_id": "sa_66699",
+        "image_format": "jpg",
+        "target_object": [
+            "motorcycle"
+        ],
+        "bbox": [
+            [
+                0.3170689355790936,
+                0.86875,
+                0.3254037159229033,
+                0.8972222222222223
+            ]
+        ],
+        "answer": "A:The color of the motorcycle is black.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "What is the color of the straw?",
+        "options": {
+            "A": "The color of the straw is white.",
+            "B": "The color of the straw is black.",
+            "C": "The color of the straw is red.",
+            "D": "The color of the straw is pink."
+        },
+        "image_id": "sa_68625",
+        "image_format": "jpg",
+        "target_object": [
+            "straw"
+        ],
+        "bbox": [
+            [
+                0.7751111111111111,
+                0.6133333333333333,
+                0.7817777777777778,
+                0.6453333333333333
+            ]
+        ],
+        "answer": "A:The color of the straw is black.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "What is the color of the man's cap?",
+        "options": {
+            "A": "The color of the man's cap is blue.",
+            "B": "The color of the man's cap is red.",
+            "C": "The color of the man's cap is white.",
+            "D": "The color of the man's cap is gray."
+        },
+        "image_id": "sa_6965",
+        "image_format": "jpg",
+        "target_object": [
+            "man's cap"
+        ],
+        "bbox": [
+            [
+                0.626,
+                0.507,
+                0.6386666666666667,
+                0.5125
+            ]
+        ],
+        "answer": "A:The color of the man's cap is red.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "What is the color of the lock?",
+        "options": {
+            "A": "The color of the lock is red.",
+            "B": "The color of the lock is silver.",
+            "C": "The color of the lock is yellow.",
+            "D": "The color of the lock is golden."
+        },
+        "image_id": "sa_70112",
+        "image_format": "jpg",
+        "target_object": [
+            "lock"
+        ],
+        "bbox": [
+            [
+                0.3913333333333333,
+                0.6521739130434783,
+                0.43666666666666665,
+                0.68015992003998
+            ]
+        ],
+        "answer": "A:The color of the lock is silver.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "What is the color of the woman's jacket?",
+        "options": {
+            "A": "The color of the woman's jacket is black.",
+            "B": "The color of the woman's jacket is blue.",
+            "C": "The color of the woman's jacket is red.",
+            "D": "The color of the woman's jacket is orange."
+        },
+        "image_id": "sa_7018",
+        "image_format": "jpg",
+        "target_object": [
+            "woman's jacket"
+        ],
+        "bbox": [
+            [
+                0.38866666666666666,
+                0.8675529295913343,
+                0.4073333333333333,
+                0.8882323978335795
+            ]
+        ],
+        "answer": "A:The color of the woman's jacket is blue.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "Is the color of the bus red or yellow?",
+        "options": {
+            "A": "The color of the bus is yellow.",
+            "B": "The color of the bus is red."
+        },
+        "image_id": "sa_7065",
+        "image_format": "jpg",
+        "target_object": [
+            "bus"
+        ],
+        "bbox": [
+            [
+                0.5111111111111111,
+                0.5973333333333334,
+                0.556,
+                0.6326666666666667
+            ]
+        ],
+        "answer": "A:The color of the bus is red.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "What is the color of the trash can?",
+        "options": {
+            "A": "The color of the trash can is black.",
+            "B": "The color of the trash can is green.",
+            "C": "The color of the trash can is red.",
+            "D": "The color of the trash can is yellow."
+        },
+        "image_id": "sa_7081",
+        "image_format": "jpg",
+        "target_object": [
+            "trash can"
+        ],
+        "bbox": [
+            [
+                0.48355555555555557,
+                0.6786666666666666,
+                0.5062222222222222,
+                0.7226666666666667
+            ]
+        ],
+        "answer": "A:The color of the trash can is green.",
+        "output_with_1.0_False_1": "B"
+    },
+    {
+        "dataset": "vstar",
+        "question": "What is the color of the dog?",
+        "options": {
+            "A": "The color of the dog is brown.",
+            "B": "The color of the dog is white.",
+            "C": "The color of the dog is black.",
+            "D": "The color of the dog is golden."
+        },
+        "image_id": "sa_717",
+        "image_format": "jpg",
+        "target_object": [
+            "dog"
+        ],
+        "bbox": [
+            [
+                0.2733333333333333,
+                0.4226666666666667,
+                0.30044444444444446,
+                0.4613333333333333
+            ]
+        ],
+        "answer": "A:The color of the dog is white.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "What is the color of the cleaning cloth?",
+        "options": {
+            "A": "The color of the cleaning cloth is blue.",
+            "B": "The color of the cleaning cloth is red.",
+            "C": "The color of the cleaning cloth is white.",
+            "D": "The color of the cleaning cloth is green."
+        },
+        "image_id": "sa_7347",
+        "image_format": "jpg",
+        "target_object": [
+            "cleaning cloth"
+        ],
+        "bbox": [
+            [
+                0.2835249042145594,
+                0.598,
+                0.3426382047071702,
+                0.672
+            ]
+        ],
+        "answer": "A:The color of the cleaning cloth is red.",
+        "output_with_1.0_False_1": "C"
+    },
+    {
+        "dataset": "vstar",
+        "question": "What is the color of the man's helmet?",
+        "options": {
+            "A": "The color of the man's helmet is white.",
+            "B": "The color of the man's helmet is yellow.",
+            "C": "The color of the man's helmet is red.",
+            "D": "The color of the man's helmet is blue."
+        },
+        "image_id": "sa_7428",
+        "image_format": "jpg",
+        "target_object": [
+            "man's helmet"
+        ],
+        "bbox": [
+            [
+                0.6584280771131982,
+                0.424,
+                0.6688086999505685,
+                0.43466666666666665
+            ]
+        ],
+        "answer": "A:The color of the man's helmet is yellow.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "What is the color of the comb?",
+        "options": {
+            "A": "The color of the comb is black.",
+            "B": "The color of the comb is purple.",
+            "C": "The color of the comb is red.",
+            "D": "The color of the comb is brown."
+        },
+        "image_id": "sa_7429",
+        "image_format": "jpg",
+        "target_object": [
+            "comb"
+        ],
+        "bbox": [
+            [
+                0.40328305235137535,
+                0.2773333333333333,
+                0.48225377107364686,
+                0.314
+            ]
+        ],
+        "answer": "A:The color of the comb is purple.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "What is the color of the bottle cap?",
+        "options": {
+            "A": "The color of the bottle cap is white.",
+            "B": "The color of the bottle cap is blue.",
+            "C": "The color of the bottle cap is red.",
+            "D": "The color of the bottle cap is black."
+        },
+        "image_id": "sa_7609",
+        "image_format": "jpg",
+        "target_object": [
+            "bottle cap"
+        ],
+        "bbox": [
+            [
+                0.5991111111111111,
+                0.526,
+                0.6088888888888889,
+                0.5373333333333333
+            ]
+        ],
+        "answer": "A:The color of the bottle cap is blue.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "What is the color of the tent?",
+        "options": {
+            "A": "The color of the tent is blue.",
+            "B": "The color of the tent is green.",
+            "C": "The color of the tent is white.",
+            "D": "The color of the tent is yellow."
+        },
+        "image_id": "sa_7668",
+        "image_format": "jpg",
+        "target_object": [
+            "tent"
+        ],
+        "bbox": [
+            [
+                0.8702222222222222,
+                0.27,
+                0.9133333333333333,
+                0.30866666666666664
+            ]
+        ],
+        "answer": "A:The color of the tent is green.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "What is the color of the bench?",
+        "options": {
+            "A": "The color of the bench is red.",
+            "B": "The color of the bench is green.",
+            "C": "The color of the bench is gray.",
+            "D": "The color of the bench is yellow."
+        },
+        "image_id": "sa_7683",
+        "image_format": "jpg",
+        "target_object": [
+            "bench"
+        ],
+        "bbox": [
+            [
+                0.804,
+                0.8126666666666666,
+                0.8822222222222222,
+                0.8546666666666667
+            ]
+        ],
+        "answer": "A:The color of the bench is green.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "What is the color of the seesaw?",
+        "options": {
+            "A": "The color of the seesaw is white.",
+            "B": "The color of the seesaw is red.",
+            "C": "The color of the seesaw is yellow.",
+            "D": "The color of the seesaw is black."
+        },
+        "image_id": "sa_79105",
+        "image_format": "jpg",
+        "target_object": [
+            "seesaw"
+        ],
+        "bbox": [
+            [
+                0.25155555555555553,
+                0.5693333333333334,
+                0.36088888888888887,
+                0.6213333333333333
+            ]
+        ],
+        "answer": "A:The color of the seesaw is red.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "What is the color of the motorcycle helmet?",
+        "options": {
+            "A": "The color of the motorcycle helmet is red.",
+            "B": "The color of the motorcycle helmet is white.",
+            "C": "The color of the motorcycle helmet is blue.",
+            "D": "The color of the motorcycle helmet is black."
+        },
+        "image_id": "sa_80352",
+        "image_format": "jpg",
+        "target_object": [
+            "motorcycle helmet"
+        ],
+        "bbox": [
+            [
+                0.1351111111111111,
+                0.7406666666666667,
+                0.14844444444444443,
+                0.7593333333333333
+            ]
+        ],
+        "answer": "A:The color of the motorcycle helmet is white.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "What is the color of the broom?",
+        "options": {
+            "A": "The color of the broom is yellow.",
+            "B": "The color of the broom is black.",
+            "C": "The color of the broom is red.",
+            "D": "The color of the broom is gray."
+        },
+        "image_id": "sa_80880",
+        "image_format": "jpg",
+        "target_object": [
+            "broom"
+        ],
+        "bbox": [
+            [
+                0.808,
+                0.26066666666666666,
+                0.8688888888888889,
+                0.4573333333333333
+            ]
+        ],
+        "answer": "A:The color of the broom is black.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "What is the color of the body of the bucket?",
+        "options": {
+            "A": "The color of the body of the bucket is green.",
+            "B": "The color of the body of the bucket is white.",
+            "C": "The color of the body of the bucket is red.",
+            "D": "The color of the body of the bucket is black."
+        },
+        "image_id": "sa_84131",
+        "image_format": "jpg",
+        "target_object": [
+            "bucket"
+        ],
+        "bbox": [
+            [
+                0.5702222222222222,
+                0.5873333333333334,
+                0.5875555555555556,
+                0.62
+            ]
+        ],
+        "answer": "A:The color of the body of the bucket is white.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "What is the color of the dustpan?",
+        "options": {
+            "A": "The color of the dustpan is red.",
+            "B": "The color of the dustpan is blue.",
+            "C": "The color of the dustpan is white.",
+            "D": "The color of the dustpan is purple."
+        },
+        "image_id": "sa_86101",
+        "image_format": "jpg",
+        "target_object": [
+            "dustpan"
+        ],
+        "bbox": [
+            [
+                0.7106666666666667,
+                0.6233333333333333,
+                0.7306666666666667,
+                0.732
+            ]
+        ],
+        "answer": "A:The color of the dustpan is blue.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "What is the color of the mailbox?",
+        "options": {
+            "A": "The color of the mailbox is red.",
+            "B": "The color of the mailbox is black.",
+            "C": "The color of the mailbox is yellow.",
+            "D": "The color of the mailbox is white."
+        },
+        "image_id": "sa_86882",
+        "image_format": "jpg",
+        "target_object": [
+            "mailbox"
+        ],
+        "bbox": [
+            [
+                0.45111111111111113,
+                0.73,
+                0.47333333333333333,
+                0.762
+            ]
+        ],
+        "answer": "A:The color of the mailbox is black.",
+        "output_with_1.0_False_1": "D"
+    },
+    {
+        "dataset": "vstar",
+        "question": "What is the color of the candles?",
+        "options": {
+            "A": "The color of the candles is white.",
+            "B": "The color of the candles is yellow.",
+            "C": "The color of the candles is red.",
+            "D": "The color of the candles is gray."
+        },
+        "image_id": "sa_9019",
+        "image_format": "jpg",
+        "target_object": [
+            "candles"
+        ],
+        "bbox": [
+            [
+                0.521021021021021,
+                0.116,
+                0.556056056056056,
+                0.22
+            ]
+        ],
+        "answer": "A:The color of the candles is yellow.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "What is the color of the bicycle?",
+        "options": {
+            "A": "The color of the bicycle is blue.",
+            "B": "The color of the bicycle is red.",
+            "C": "The color of the bicycle is white.",
+            "D": "The color of the bicycle is silver."
+        },
+        "image_id": "sa_9230",
+        "image_format": "jpg",
+        "target_object": [
+            "bicycle"
+        ],
+        "bbox": [
+            [
+                0.5342222222222223,
+                0.73,
+                0.5911111111111111,
+                0.7793333333333333
+            ]
+        ],
+        "answer": "A:The color of the bicycle is red.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "What is the material of the stool?",
+        "options": {
+            "A": "The material of the stool is wood.",
+            "B": "The material of the stool is plastic.",
+            "C": "The material of the stool is steel.",
+            "D": "The material of the stool is bamboo."
+        },
+        "image_id": "sa_9611",
+        "image_format": "jpg",
+        "target_object": [
+            "stool"
+        ],
+        "bbox": [
+            [
+                0.6938681420009221,
+                0.4066666666666667,
+                0.7330567081604425,
+                0.4646666666666667
+            ]
+        ],
+        "answer": "A:The material of the stool is plastic.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "What is the color of the backpack?",
+        "options": {
+            "A": "The color of the backpack is black.",
+            "B": "The color of the backpack is red.",
+            "C": "The color of the backpack is white.",
+            "D": "The color of the backpack is yellow."
+        },
+        "image_id": "sa_9877",
+        "image_format": "jpg",
+        "target_object": [
+            "backpack"
+        ],
+        "bbox": [
+            [
+                0.9497777777777778,
+                0.6626666666666666,
+                0.9751111111111112,
+                0.7106666666666667
+            ]
+        ],
+        "answer": "A:The color of the backpack is red.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "Is the color of the plastic bucket black or green?",
+        "options": {
+            "A": "The color of the plastic bucket is black.",
+            "B": "The color of the plastic bucket is green."
+        },
+        "image_id": "sa_9957",
+        "image_format": "jpg",
+        "target_object": [
+            "plastic bucket"
+        ],
+        "bbox": [
+            [
+                0.863517060367454,
+                0.2813333333333333,
+                0.9152605924259467,
+                0.362
+            ]
+        ],
+        "answer": "A:The color of the plastic bucket is green.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "From the information on that advertising board, what is the type of this shop?",
+        "options": {
+            "A": "The shop is a cafe.",
+            "B": "The shop is a yoga studio.",
+            "C": "The shop is a seven-eleven.",
+            "D": "The shop is a milk tea shop."
+        },
+        "image_id": "0",
+        "image_format": "jpg",
+        "target_object": [
+            "advertising board"
+        ],
+        "bbox": [
+            [
+                0.48089622641509433,
+                0.4837570621468927,
+                0.5146226415094339,
+                0.5554378531073446
+            ]
+        ],
+        "answer": "A:The shop is a yoga studio.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "What is the color of the liquid contained in the glass on the table?",
+        "options": {
+            "A": "The color of the liquid contained in the glass on the table is transparent.",
+            "B": "The color of the liquid contained in the glass on the table is green.",
+            "C": "The color of the liquid contained in the glass on the table is white.",
+            "D": "The color of the liquid contained in the glass on the table is orange."
+        },
+        "image_id": "1",
+        "image_format": "jpg",
+        "target_object": [
+            "glass on the table"
+        ],
+        "bbox": [
+            [
+                0.5447916666666667,
+                0.5602150537634408,
+                0.5635416666666667,
+                0.6172043010752688
+            ]
+        ],
+        "answer": "A:The color of the liquid contained in the glass on the table is green.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "What is the instrument held by an ape?",
+        "options": {
+            "A": "The instrument held by an ape is a violin.",
+            "B": "The instrument held by an ape is a guitar.",
+            "C": "The instrument held by an ape is a saxophone.",
+            "D": "The instrument held by an ape is a bass."
+        },
+        "image_id": "10",
+        "image_format": "jpg",
+        "target_object": [
+            "instrument held by an ape"
+        ],
+        "bbox": [
+            [
+                0.5107142857142857,
+                0.4417808219178082,
+                0.5410714285714285,
+                0.589041095890411
+            ]
+        ],
+        "answer": "A:The instrument held by an ape is a guitar.",
+        "output_with_1.0_False_1": "B"
+    },
+    {
+        "dataset": "vstar",
+        "question": "What is the color of the mug?",
+        "options": {
+            "A": "The color of the mug is black.",
+            "B": "The color of the mug is blue.",
+            "C": "The color of the mug is white.",
+            "D": "The color of the mug is red."
+        },
+        "image_id": "12",
+        "image_format": "jpg",
+        "target_object": [
+            "mug"
+        ],
+        "bbox": [
+            [
+                0.6132,
+                0.2592,
+                0.6405333333333333,
+                0.3038
+            ]
+        ],
+        "answer": "A:The color of the mug is blue.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "Tell me the number of that player who is shooting.",
+        "options": {
+            "A": "The number of that player who is shooting is 10.",
+            "B": "The number of that player who is shooting is 8.",
+            "C": "The number of that player who is shooting is 30.",
+            "D": "The number of that player who is shooting is 24."
+        },
+        "image_id": "13",
+        "image_format": "jpg",
+        "target_object": [
+            "player who is shooting"
+        ],
+        "bbox": [
+            [
+                0.4450402144772118,
+                0.4857142857142857,
+                0.4897229669347632,
+                0.6821428571428572
+            ]
+        ],
+        "answer": "A:The number of that player who is shooting is 8.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "From the information on the black framed board, how long do we have to wait in line for this attraction?",
+        "options": {
+            "A": "The black framed board displays a wait time of 30 minutes for the attraction.",
+            "B": "The black framed board displays a wait time of 10 minutes for the attraction.",
+            "C": "The black framed board displays a wait time of 20 minutes for the attraction.",
+            "D": "The black framed board displays a wait time of 15 minutes for the attraction."
+        },
+        "image_id": "14",
+        "image_format": "jpg",
+        "target_object": [
+            "black framed board"
+        ],
+        "bbox": [
+            [
+                0.3881448412698413,
+                0.5013227513227513,
+                0.4320436507936508,
+                0.5545634920634921
+            ]
+        ],
+        "answer": "A:The black framed board displays a wait time of 10 minutes for the attraction.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "What is the title of that red book?",
+        "options": {
+            "A": "The title of the red book is \"Windows Server\".",
+            "B": "The title of the red book is \"Websters II\".",
+            "C": "The title of the red book is \"Office Handbook\".",
+            "D": "The title of the red book is \"Reference Guide\"."
+        },
+        "image_id": "15",
+        "image_format": "jpg",
+        "target_object": [
+            "red book"
+        ],
+        "bbox": [
+            [
+                0.4891509433962264,
+                0.4470338983050847,
+                0.5186320754716981,
+                0.5310734463276836
+            ]
+        ],
+        "answer": "A:The title of the red book is \"Websters II\".",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "What animal is drawn on that red signicade?",
+        "options": {
+            "A": "A rooster is drawn on that red signicade.",
+            "B": "A tiger is drawn on that red signicade.",
+            "C": "A lamb is drawn on that red signicade.",
+            "D": "A pig is drawn on that red signicade."
+        },
+        "image_id": "16",
+        "image_format": "jpg",
+        "target_object": [
+            "red signicade"
+        ],
+        "bbox": [
+            [
+                0.5165094339622641,
+                0.5,
+                0.5400943396226415,
+                0.5559259259259259
+            ]
+        ],
+        "answer": "A:A tiger is drawn on that red signicade.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "Based on that street nameplate, what is the name of the street ahead?",
+        "options": {
+            "A": "The name of the street ahead is Spruce Street.",
+            "B": "The name of the street ahead is Gambier Street.",
+            "C": "The name of the street ahead is Maple Avenue.",
+            "D": "The name of the street ahead is Pine Street."
+        },
+        "image_id": "17",
+        "image_format": "jpg",
+        "target_object": [
+            "street nameplate"
+        ],
+        "bbox": [
+            [
+                0.52525,
+                0.5142857142857142,
+                0.545,
+                0.5239285714285714
+            ]
+        ],
+        "answer": "A:The name of the street ahead is Gambier Street.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "What is the color of the dog?",
+        "options": {
+            "A": "The color of the dog is white.",
+            "B": "The color of the dog is black.",
+            "C": "The color of the dog is brown.",
+            "D": "The color of the dog is gray."
+        },
+        "image_id": "18",
+        "image_format": "jpg",
+        "target_object": [
+            "dog"
+        ],
+        "bbox": [
+            [
+                0.5314814814814814,
+                0.4551772063933287,
+                0.5712962962962963,
+                0.5364836692147325
+            ]
+        ],
+        "answer": "A:The color of the dog is black.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "Which company does that little doll belong to?",
+        "options": {
+            "A": "The little doll belongs to Rubbermaid.",
+            "B": "The little doll belongs to Intel.",
+            "C": "The little doll belongs to Nvidia.",
+            "D": "The little doll belongs to Tencent."
+        },
+        "image_id": "19",
+        "image_format": "jpg",
+        "target_object": [
+            "little doll"
+        ],
+        "bbox": [
+            [
+                0.49693396226415093,
+                0.4925847457627119,
+                0.5259433962264151,
+                0.565677966101695
+            ]
+        ],
+        "answer": "A:The little doll belongs to Intel.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "What is the color of the child's shoes?",
+        "options": {
+            "A": "The color of the child's shoes is white.",
+            "B": "The color of the child's shoes is green.",
+            "C": "The color of the child's shoes is pink.",
+            "D": "The color of the child's shoes is yellow."
+        },
+        "image_id": "2",
+        "image_format": "jpg",
+        "target_object": [
+            "child"
+        ],
+        "bbox": [
+            [
+                0.4822916666666667,
+                0.43425925925925923,
+                0.6114583333333333,
+                0.5935185185185186
+            ]
+        ],
+        "answer": "A:The color of the child's shoes is green.",
+        "output_with_1.0_False_1": "B"
+    },
+    {
+        "dataset": "vstar",
+        "question": "What is the logo on that bag of bottles carried by the man?",
+        "options": {
+            "A": "The logo on that bag of bottles carried by the man is Kirkland.",
+            "B": "The logo on that bag of bottles carried by the man is Evian.",
+            "C": "The logo on that bag of bottles carried by the man is Poland Spring.",
+            "D": "The logo on that bag of bottles carried by the man is Duane Reade."
+        },
+        "image_id": "21",
+        "image_format": "jpg",
+        "target_object": [
+            "bag of bottles"
+        ],
+        "bbox": [
+            [
+                0.5686725663716814,
+                0.9360233607645341,
+                0.6226548672566372,
+                0.9989381470666313
+            ]
+        ],
+        "answer": "A:The logo on that bag of bottles carried by the man is Evian.",
+        "output_with_1.0_False_1": "C"
+    },
+    {
+        "dataset": "vstar",
+        "question": "Based on the information of that white banner on the left, what activity is going to be held?",
+        "options": {
+            "A": "A soccer game is going to be held.",
+            "B": "A BBQ is going to be held.",
+            "C": "A yard sale is going to be held."
+        },
+        "image_id": "4",
+        "image_format": "jpg",
+        "target_object": [
+            "white banner on the left"
+        ],
+        "bbox": [
+            [
+                0.5085365853658537,
+                0.5237037037037037,
+                0.5517073170731708,
+                0.5677777777777778
+            ]
+        ],
+        "answer": "A:A BBQ is going to be held.",
+        "output_with_1.0_False_1": "C"
+    },
+    {
+        "dataset": "vstar",
+        "question": "At which conference did someone get that black mug?",
+        "options": {
+            "A": "The black mug is gotten from CVPR.",
+            "B": "The black mug is gotten from SIGGRAPH.",
+            "C": "The black mug is gotten from NeurIPS.",
+            "D": "The black mug is gotten from ICCV."
+        },
+        "image_id": "5",
+        "image_format": "jpg",
+        "target_object": [
+            "black mug"
+        ],
+        "bbox": [
+            [
+                0.51175,
+                0.5044444444444445,
+                0.57825,
+                0.6144444444444445
+            ]
+        ],
+        "answer": "A:The black mug is gotten from SIGGRAPH.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "Based on the text on the glass cup, which university is it likely brought from?",
+        "options": {
+            "A": "The glass cup is likely brought from Stanford University.",
+            "B": "The glass cup is likely brought from Carnegie Mellon University.",
+            "C": "The glass cup is likely brought from UC Berkeley.",
+            "D": "The glass cup is likely brought from MIT."
+        },
+        "image_id": "7",
+        "image_format": "jpg",
+        "target_object": [
+            "glass cup"
+        ],
+        "bbox": [
+            [
+                0.666,
+                0.5455,
+                0.696,
+                0.58475
+            ]
+        ],
+        "answer": "A:The glass cup is likely brought from Carnegie Mellon University.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "Where to buy a mug like this based on its logo?",
+        "options": {
+            "A": "The mug can be bought from GameStop.",
+            "B": "The mug can be bought from Starbucks.",
+            "C": "The mug can be bought from ThinkGeek.",
+            "D": "The mug can be bought from Amazon."
+        },
+        "image_id": "8",
+        "image_format": "jpg",
+        "target_object": [
+            "mug"
+        ],
+        "bbox": [
+            [
+                0.9243697478991597,
+                0.5,
+                0.997510115157174,
+                0.6240079365079365
+            ]
+        ],
+        "answer": "A:The mug can be bought from Starbucks.",
+        "output_with_1.0_False_1": "C"
+    },
+    {
+        "dataset": "vstar",
+        "question": "What is the brand of the bag?",
+        "options": {
+            "A": "The brand of the bag is Prada.",
+            "B": "The brand of the bag is KIRSH.",
+            "C": "The brand of the bag is Coach.",
+            "D": "The brand of the bag is Gucci."
+        },
+        "image_id": "sa_17012",
+        "image_format": "jpg",
+        "target_object": [
+            "bag"
+        ],
+        "bbox": [
+            [
+                0.5006666666666667,
+                0.8084444444444444,
+                0.6306666666666667,
+                0.908
+            ]
+        ],
+        "answer": "A:The brand of the bag is KIRSH.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "Tell me the number on the traffic light.",
+        "options": {
+            "A": "The number on the traffic light is 1.",
+            "B": "The number on the traffic light is 19.",
+            "C": "The number on the traffic light is 91.",
+            "D": "The number on the traffic light is 11."
+        },
+        "image_id": "sa_17063",
+        "image_format": "jpg",
+        "target_object": [
+            "traffic light"
+        ],
+        "bbox": [
+            [
+                0.3942222222222222,
+                0.5006666666666667,
+                0.46266666666666667,
+                0.5286666666666666
+            ]
+        ],
+        "answer": "A:The number on the traffic light is 19.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "Tell me the number on the boat.",
+        "options": {
+            "A": "The number printed on the boat is K11.",
+            "B": "The number printed on the boat is K12.",
+            "C": "The number printed on the boat is K120.",
+            "D": "The number printed on the boat is K102."
+        },
+        "image_id": "sa_18172",
+        "image_format": "jpg",
+        "target_object": [
+            "boat"
+        ],
+        "bbox": [
+            [
+                0.2942222222222222,
+                0.6313333333333333,
+                0.4622222222222222,
+                0.6893333333333334
+            ]
+        ],
+        "answer": "A:The number printed on the boat is K12.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "Tell me the number on the speed sign.",
+        "options": {
+            "A": "The number on the speed sign is 30.",
+            "B": "The number on the speed sign is 40.",
+            "C": "The number on the speed sign is 50.",
+            "D": "The number on the speed sign is 80."
+        },
+        "image_id": "sa_21796",
+        "image_format": "jpg",
+        "target_object": [
+            "speed sign"
+        ],
+        "bbox": [
+            [
+                0.8111111111111111,
+                0.852,
+                0.8346666666666667,
+                0.8826666666666667
+            ]
+        ],
+        "answer": "A:The number on the speed sign is 40.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "Tell me the text on the notice board.",
+        "options": {
+            "A": "The text on the notice board is \"No Parking\".",
+            "B": "The text on the notice board is \"TAXI\".",
+            "C": "The text on the notice board is \"EXIT\".",
+            "D": "The text on the notice board is \"WARNING\"."
+        },
+        "image_id": "sa_2786",
+        "image_format": "jpg",
+        "target_object": [
+            "notice board"
+        ],
+        "bbox": [
+            [
+                0.23866666666666667,
+                0.4245333333333333,
+                0.35333333333333333,
+                0.4901333333333333
+            ]
+        ],
+        "answer": "A:The text on the notice board is \"TAXI\".",
+        "output_with_1.0_False_1": "B"
+    },
+    {
+        "dataset": "vstar",
+        "question": "Tell me the number on the police car.",
+        "options": {
+            "A": "The number on the police car is 101.",
+            "B": "The number on the police car is 102.",
+            "C": "The number on the police car is 110.",
+            "D": "The number on the police car is 100."
+        },
+        "image_id": "sa_3088",
+        "image_format": "jpg",
+        "target_object": [
+            "police car"
+        ],
+        "bbox": [
+            [
+                0.2523364485981308,
+                0.8973333333333333,
+                0.32888295505117937,
+                0.9413333333333334
+            ]
+        ],
+        "answer": "A:The number on the police car is 102.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "Tell me the number on the white board.",
+        "options": {
+            "A": "The number on the white board is 2.",
+            "B": "The number on the white board is 3.",
+            "C": "The number on the white board is 1.",
+            "D": "The number on the white board is 0."
+        },
+        "image_id": "sa_39432",
+        "image_format": "jpg",
+        "target_object": [
+            "white board"
+        ],
+        "bbox": [
+            [
+                0.21955555555555556,
+                0.4826666666666667,
+                0.2311111111111111,
+                0.502
+            ]
+        ],
+        "answer": "A:The number on the white board is 3.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "Tell me the text on the white banner.",
+        "options": {
+            "A": "The text on the white banner is \"HAVE FUN\".",
+            "B": "The text on the white banner is \"COLD BEER\".",
+            "C": "The text on the white banner is \"BEACH PARTY\".",
+            "D": "The text on the white banner is \"WELCOME\"."
+        },
+        "image_id": "sa_39793",
+        "image_format": "jpg",
+        "target_object": [
+            "white banner"
+        ],
+        "bbox": [
+            [
+                0.516,
+                0.18333333333333332,
+                0.572,
+                0.242
+            ]
+        ],
+        "answer": "A:The text on the white banner is \"COLD BEER\".",
+        "output_with_1.0_False_1": "B"
+    },
+    {
+        "dataset": "vstar",
+        "question": "Tell me the number on the helmet.",
+        "options": {
+            "A": "The number on the helmet is 10.",
+            "B": "The number on the helmet is 41.",
+            "C": "The number on the helmet is 31.",
+            "D": "The number on the helmet is 40."
+        },
+        "image_id": "sa_40637",
+        "image_format": "jpg",
+        "target_object": [
+            "helmet"
+        ],
+        "bbox": [
+            [
+                0.26466666666666666,
+                0.32355555555555554,
+                0.34,
+                0.36533333333333334
+            ]
+        ],
+        "answer": "A:The number on the helmet is 41.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "Tell me the text displayed on the screen.",
+        "options": {
+            "A": "The text displayed on the screen is \"CITY LIFE\".",
+            "B": "The text displayed on the screen is \"TO THAILAND\".",
+            "C": "The text displayed on the screen is \"WELCOME TO THAILAND\".",
+            "D": "The text displayed on the screen is \"THAILAND LIFE\"."
+        },
+        "image_id": "sa_41985",
+        "image_format": "jpg",
+        "target_object": [
+            "screen"
+        ],
+        "bbox": [
+            [
+                0.22533333333333333,
+                0.23866666666666667,
+                0.3497777777777778,
+                0.44133333333333336
+            ]
+        ],
+        "answer": "A:The text displayed on the screen is \"TO THAILAND\".",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "Tell me the number on the LED screen.",
+        "options": {
+            "A": "The number on the LED screen is 850.",
+            "B": "The number on the LED screen is 854.",
+            "C": "The number on the LED screen is 100.",
+            "D": "The number on the LED screen is 845."
+        },
+        "image_id": "sa_42303",
+        "image_format": "jpg",
+        "target_object": [
+            "LED screen"
+        ],
+        "bbox": [
+            [
+                0.2328888888888889,
+                0.23,
+                0.2862222222222222,
+                0.26666666666666666
+            ]
+        ],
+        "answer": "A:The number on the LED screen is 854.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "Tell me the number on the traffic light screen.",
+        "options": {
+            "A": "The number on the traffic light screen is 10.",
+            "B": "The number on the traffic light screen is 25.",
+            "C": "The number on the traffic light screen is 20.",
+            "D": "The number on the traffic light screen is 55."
+        },
+        "image_id": "sa_42566",
+        "image_format": "jpg",
+        "target_object": [
+            "traffic light screen"
+        ],
+        "bbox": [
+            [
+                0.2111111111111111,
+                0.5906666666666667,
+                0.2262222222222222,
+                0.63
+            ]
+        ],
+        "answer": "A:The number on the traffic light screen is 25.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "Tell me the number on the speed sign.",
+        "options": {
+            "A": "The number on the speed sign is 30.",
+            "B": "The number on the speed sign is 40.",
+            "C": "The number on the speed sign is 50.",
+            "D": "The number on the speed sign is 80."
+        },
+        "image_id": "sa_43283",
+        "image_format": "jpg",
+        "target_object": [
+            "speed sign"
+        ],
+        "bbox": [
+            [
+                0.4573333333333333,
+                0.49866666666666665,
+                0.4697777777777778,
+                0.52
+            ]
+        ],
+        "answer": "A:The number on the speed sign is 40.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "Tell me the text on the green board.",
+        "options": {
+            "A": "The text on the green board is \"Steep slope\".",
+            "B": "The text on the green board is \"Funiculaire\".",
+            "C": "The text on the green board is \"Cautious\".",
+            "D": "The text on the green board is \"Closed\"."
+        },
+        "image_id": "sa_44616",
+        "image_format": "jpg",
+        "target_object": [
+            "green board"
+        ],
+        "bbox": [
+            [
+                0.33266666666666667,
+                0.12355555555555556,
+                0.476,
+                0.16577777777777777
+            ]
+        ],
+        "answer": "A:The text on the green board is \"Funiculaire\".",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "Tell me the text on the green screen.",
+        "options": {
+            "A": "The text on the green screen is \"Government\".",
+            "B": "The text on the green screen is \"125 Years\".",
+            "C": "The text on the green screen is \"Great City\".",
+            "D": "The text on the green screen is \"120 Years\"."
+        },
+        "image_id": "sa_47747",
+        "image_format": "jpg",
+        "target_object": [
+            "green screen"
+        ],
+        "bbox": [
+            [
+                0.12711111111111112,
+                0.2826666666666667,
+                0.2071111111111111,
+                0.31666666666666665
+            ]
+        ],
+        "answer": "A:The text on the green screen is \"125 Years\".",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "Tell me the text on the orange board.",
+        "options": {
+            "A": "The text on the orange board is \"EXIT\".",
+            "B": "The text on the orange board is \"TAXI\".",
+            "C": "The text on the orange board is \"Closed\".",
+            "D": "The text on the orange board is \"Welcome\"."
+        },
+        "image_id": "sa_50038",
+        "image_format": "jpg",
+        "target_object": [
+            "orange board"
+        ],
+        "bbox": [
+            [
+                0.129547471162378,
+                0.8,
+                0.16370896184560782,
+                0.832
+            ]
+        ],
+        "answer": "A:The text on the orange board is \"TAXI\".",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "Tell me the time displayed on the LED screen.",
+        "options": {
+            "A": "The time displayed on the LED screen is 12:00.",
+            "B": "The time displayed on the LED screen is 12:29.",
+            "C": "The time displayed on the LED screen is 12:20.",
+            "D": "The time displayed on the LED screen is 10:29."
+        },
+        "image_id": "sa_58860",
+        "image_format": "jpg",
+        "target_object": [
+            "LED screen"
+        ],
+        "bbox": [
+            [
+                0.4737777777777778,
+                0.36466666666666664,
+                0.48933333333333334,
+                0.37866666666666665
+            ]
+        ],
+        "answer": "A:The time displayed on the LED screen is 12:29.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "Tell me the text shown on the blue signpost.",
+        "options": {
+            "A": "The text shown on the blue signpost is \"BUS\".",
+            "B": "The text shown on the blue signpost is \"PARK\".",
+            "C": "The text shown on the blue signpost is \"TAXI\".",
+            "D": "The text shown on the blue signpost is \"EXIT\"."
+        },
+        "image_id": "sa_60634",
+        "image_format": "jpg",
+        "target_object": [
+            "blue signpost"
+        ],
+        "bbox": [
+            [
+                0.43822222222222224,
+                0.634,
+                0.468,
+                0.7106666666666667
+            ]
+        ],
+        "answer": "A:The text shown on the blue signpost is \"PARK\".",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "Tell me the text on the notice on the doorframe.",
+        "options": {
+            "A": "The text on the notice on the doorframe is \"WELCOME\".",
+            "B": "The text on the notice on the doorframe is \"BEFORE ENTER\".",
+            "C": "The text on the notice on the doorframe is \"NO PET\".",
+            "D": "The text on the notice on the doorframe is \"OPEN\"."
+        },
+        "image_id": "sa_61610",
+        "image_format": "jpg",
+        "target_object": [
+            "notice on the doorframe"
+        ],
+        "bbox": [
+            [
+                0.2633333333333333,
+                0.3008888888888889,
+                0.382,
+                0.3542222222222222
+            ]
+        ],
+        "answer": "A:The text on the notice on the doorframe is \"BEFORE ENTER\".",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "Tell me the number on the safety vest.",
+        "options": {
+            "A": "The number on the safety vest is 10.",
+            "B": "The number on the safety vest is 74.",
+            "C": "The number on the safety vest is 70.",
+            "D": "The number on the safety vest is 54."
+        },
+        "image_id": "sa_61957",
+        "image_format": "jpg",
+        "target_object": [
+            "safety vest"
+        ],
+        "bbox": [
+            [
+                0.6719928983577452,
+                0.5173333333333333,
+                0.6955170883266756,
+                0.5593333333333333
+            ]
+        ],
+        "answer": "A:The number on the safety vest is 74.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "Tell me the text on the dog's vest.",
+        "options": {
+            "A": "The text on the dog's vest is \"DOG\".",
+            "B": "The text on the dog's vest is \"ADOPT ME\".",
+            "C": "The text on the dog's vest is \"COOL PET\".",
+            "D": "The text on the dog's vest is \"LOVE ME\"."
+        },
+        "image_id": "sa_72937",
+        "image_format": "jpg",
+        "target_object": [
+            "dog's vest"
+        ],
+        "bbox": [
+            [
+                0.5225,
+                0.5293333333333333,
+                0.6105,
+                0.6426666666666667
+            ]
+        ],
+        "answer": "A:The text on the dog's vest is \"ADOPT ME\".",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "Tell me the number on the white boat.",
+        "options": {
+            "A": "The number on the white boat is 10.",
+            "B": "The number on the white boat is 14.",
+            "C": "The number on the white boat is 04.",
+            "D": "The number on the white boat is 24."
+        },
+        "image_id": "sa_79154",
+        "image_format": "jpg",
+        "target_object": [
+            "white boat"
+        ],
+        "bbox": [
+            [
+                0.5911477869467366,
+                0.702,
+                0.6781695423855963,
+                0.7326666666666667
+            ]
+        ],
+        "answer": "A:The number on the white boat is 14.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "What does the vending machine sell?",
+        "options": {
+            "A": "The vending machine sells snacks.",
+            "B": "The vending machine sells Coca Cola.",
+            "C": "The vending machine sells Pepsi.",
+            "D": "The vending machine sells ice cream."
+        },
+        "image_id": "sa_82003",
+        "image_format": "jpg",
+        "target_object": [
+            "vending machine"
+        ],
+        "bbox": [
+            [
+                0.5248888888888888,
+                0.7573333333333333,
+                0.5542222222222222,
+                0.822
+            ]
+        ],
+        "answer": "A:The vending machine sells Coca Cola.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "Tell me the text on the airship.",
+        "options": {
+            "A": "The text on the airship is \"Tropical\".",
+            "B": "The text on the airship is \"Goodyear\".",
+            "C": "The text on the airship is \"Airship\".",
+            "D": "The text on the airship is \"Sky\"."
+        },
+        "image_id": "sa_88890",
+        "image_format": "jpg",
+        "target_object": [
+            "airship"
+        ],
+        "bbox": [
+            [
+                0.9063917525773196,
+                0.37866666666666665,
+                0.9521649484536082,
+                0.4013333333333333
+            ]
+        ],
+        "answer": "A:The text on the airship is \"Goodyear\".",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "Based the text on that yellow bag, what does it contain?",
+        "options": {
+            "A": "The yellow bag contains peanuts.",
+            "B": "The yellow bag contains pistachios.",
+            "C": "The yellow bag contains coffee beans.",
+            "D": "The yellow bag contains cookies."
+        },
+        "image_id": "sr_raw_0",
+        "image_format": "jpg",
+        "target_object": [
+            "yellow bag"
+        ],
+        "bbox": [
+            [
+                0.511,
+                0.40975987606506586,
+                0.57975,
+                0.516266460108443
+            ]
+        ],
+        "answer": "A:The yellow bag contains pistachios.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "According to the overhead red board, what is the building ahead?",
+        "options": {
+            "A": "The building ahead is a library.",
+            "B": "The building ahead is a leasing office.",
+            "C": "The building ahead is a cafe.",
+            "D": "The building ahead is a store."
+        },
+        "image_id": "sr_raw_1",
+        "image_format": "jpg",
+        "target_object": [
+            "overhead red board"
+        ],
+        "bbox": [
+            [
+                0.4041062801932367,
+                0.3298022598870056,
+                0.5178743961352656,
+                0.3788841807909605
+            ]
+        ],
+        "answer": "A:The building ahead is a leasing office.",
+        "output_with_1.0_False_1": "B"
+    },
+    {
+        "dataset": "vstar",
+        "question": "Which company does that van belong to based on the logo on it?",
+        "options": {
+            "A": "The van belongs to UPS.",
+            "B": "The van belongs to Xfinity.",
+            "C": "The van belongs to Amazon.",
+            "D": "The van belongs to Walmart."
+        },
+        "image_id": "sr_raw_2",
+        "image_format": "jpg",
+        "target_object": [
+            "van"
+        ],
+        "bbox": [
+            [
+                0.5002631578947369,
+                0.5,
+                0.616578947368421,
+                0.5660714285714286
+            ]
+        ],
+        "answer": "A:The van belongs to Xfinity.",
+        "output_with_1.0_False_1": "B"
+    },
+    {
+        "dataset": "vstar",
+        "question": "What is the number on that blue board?",
+        "options": {
+            "A": "The number on that blue board is 2013.",
+            "B": "The number on that blue board is 2050.",
+            "C": "The number on that blue board is 2030.",
+            "D": "The number on that blue board is 2023."
+        },
+        "image_id": "textvqa_0",
+        "image_format": "jpg",
+        "target_object": [
+            "blue board"
+        ],
+        "bbox": [
+            [
+                0.5048828125,
+                0.1495601173020528,
+                0.5966796875,
+                0.23460410557184752
+            ]
+        ],
+        "answer": "A:The number on that blue board is 2050.",
+        "output_with_1.0_False_1": "B"
+    },
+    {
+        "dataset": "vstar",
+        "question": "Tell me the text on the notice board.",
+        "options": {
+            "A": "The text on the notice board is \"HOME TEAM\".",
+            "B": "The text on the notice board is \"GUEST TEAM\".",
+            "C": "The text on the notice board is \"SPECTATOR AREA\".",
+            "D": "The text on the notice board is \"OPEN\"."
+        },
+        "image_id": "textvqa_1",
+        "image_format": "jpg",
+        "target_object": [
+            "notice board"
+        ],
+        "bbox": [
+            [
+                0.6416015625,
+                0.008823529411764706,
+                0.736328125,
+                0.0838235294117647
+            ]
+        ],
+        "answer": "A:The text on the notice board is \"GUEST TEAM\".",
+        "output_with_1.0_False_1": "B: The text on the notice board is \"GUEST TEAM\"."
+    },
+    {
+        "dataset": "vstar",
+        "question": "Tell me the text on the red board.",
+        "options": {
+            "A": "The text on the red board is \"Valley\".",
+            "B": "The text on the red board is \"Valle\".",
+            "C": "The text on the red board is \"City\".",
+            "D": "The text on the red board is \"Value\"."
+        },
+        "image_id": "textvqa_2",
+        "image_format": "jpg",
+        "target_object": [
+            "red board"
+        ],
+        "bbox": [
+            [
+                0.5052631578947369,
+                0.203125,
+                0.5821052631578948,
+                0.23863636363636365
+            ]
+        ],
+        "answer": "A:The text on the red board is \"Valle\".",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "Is the umbrella on the left or right side of the traffic light?",
+        "options": {
+            "A": "The umbrella is on the left side of the traffic light.",
+            "B": "The umbrella is on the right side of the traffic light."
+        },
+        "image_id": "sa_10313",
+        "image_format": "jpg",
+        "target_object": [
+            "umbrella",
+            "traffic light"
+        ],
+        "bbox": [
+            [
+                0.7875555555555556,
+                0.768,
+                0.8515555555555555,
+                0.8346666666666667
+            ],
+            [
+                0.6573333333333333,
+                0.656,
+                0.676,
+                0.7246666666666667
+            ]
+        ],
+        "answer": "A:The umbrella is on the right side of the traffic light.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "Is the red car on the left or right side of the police car?",
+        "options": {
+            "A": "The red car is on the right side of the police car.",
+            "B": "The red car is on the left side of the police car."
+        },
+        "image_id": "sa_19421",
+        "image_format": "jpg",
+        "target_object": [
+            "red car",
+            "police car"
+        ],
+        "bbox": [
+            [
+                0.6013333333333334,
+                0.7126666666666667,
+                0.612,
+                0.7246666666666667
+            ],
+            [
+                0.7204444444444444,
+                0.72,
+                0.7604444444444445,
+                0.7446666666666667
+            ]
+        ],
+        "answer": "A:The red car is on the left side of the police car.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "Is the cyclist on the left or right side of the woman's handbag?",
+        "options": {
+            "A": "The cyclist is on the right side of the woman's handbag.",
+            "B": "The cyclist is on the left side of the woman's handbag."
+        },
+        "image_id": "sa_23098",
+        "image_format": "jpg",
+        "target_object": [
+            "cyclist",
+            "woman's handbag"
+        ],
+        "bbox": [
+            [
+                0.4622222222222222,
+                0.6473333333333333,
+                0.4746666666666667,
+                0.6746666666666666
+            ],
+            [
+                0.8773333333333333,
+                0.668,
+                0.8866666666666667,
+                0.684
+            ]
+        ],
+        "answer": "A:The cyclist is on the left side of the woman's handbag.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "Is the blue truck on the left or right side of the white vehicle?",
+        "options": {
+            "A": "The blue truck is on the left side of the white vehicle.",
+            "B": "The blue truck is on the right side of the white vehicle."
+        },
+        "image_id": "sa_23264",
+        "image_format": "jpg",
+        "target_object": [
+            "blue truck",
+            "white vehicle"
+        ],
+        "bbox": [
+            [
+                0.6351111111111111,
+                0.45866666666666667,
+                0.672,
+                0.482
+            ],
+            [
+                0.5302222222222223,
+                0.478,
+                0.5657777777777778,
+                0.498
+            ]
+        ],
+        "answer": "A:The blue truck is on the right side of the white vehicle.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "Is the wheelchair on the left or right side of the lamp post?",
+        "options": {
+            "A": "The wheelchair is on the right side of the lamp post.",
+            "B": "The wheelchair is on the left side of the lamp post."
+        },
+        "image_id": "sa_23298",
+        "image_format": "jpg",
+        "target_object": [
+            "wheelchair"
+        ],
+        "bbox": [
+            [
+                0.07511111111111111,
+                0.6986666666666667,
+                0.08666666666666667,
+                0.7166666666666667
+            ]
+        ],
+        "answer": "A:The wheelchair is on the left side of the lamp post.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "Is the small red car on the left or right side of the baby carriage?",
+        "options": {
+            "A": "The small red car is on the right side of the baby carriage.",
+            "B": "The small red car is on the left side of the baby carriage."
+        },
+        "image_id": "sa_23575",
+        "image_format": "jpg",
+        "target_object": [
+            "small red car",
+            "baby carriage"
+        ],
+        "bbox": [
+            [
+                0.3,
+                0.6393333333333333,
+                0.32222222222222224,
+                0.658
+            ],
+            [
+                0.372,
+                0.636,
+                0.3893333333333333,
+                0.67
+            ]
+        ],
+        "answer": "A:The small red car is on the left side of the baby carriage.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "Is the dog on the left or right side of the river?",
+        "options": {
+            "A": "The dog is on the left side of the river.",
+            "B": "The dog is on the right side of the river."
+        },
+        "image_id": "sa_24031",
+        "image_format": "jpg",
+        "target_object": [
+            "dog"
+        ],
+        "bbox": [
+            [
+                0.8222222222222222,
+                0.468,
+                0.8306666666666667,
+                0.49133333333333334
+            ]
+        ],
+        "answer": "A:The dog is on the right side of the river.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "Is the woman with a backpack on the left or right side of the person with a beanie?",
+        "options": {
+            "A": "The woman with a backpack is on the right side of the person with a beanie.",
+            "B": "The woman with a backpack is on the left side of the person with a beanie."
+        },
+        "image_id": "sa_24464",
+        "image_format": "jpg",
+        "target_object": [
+            "woman with a backpack",
+            "person with a beanie"
+        ],
+        "bbox": [
+            [
+                0.5115555555555555,
+                0.87,
+                0.524,
+                0.8893333333333333
+            ],
+            [
+                0.8613333333333333,
+                0.85,
+                0.8728888888888889,
+                0.8733333333333333
+            ]
+        ],
+        "answer": "A:The woman with a backpack is on the left side of the person with a beanie.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "Is the baby carriage on the left or right side of the cone?",
+        "options": {
+            "A": "The baby carriage is on the left side of the cone.",
+            "B": "The baby carriage is on the right side of the cone."
+        },
+        "image_id": "sa_24971",
+        "image_format": "jpg",
+        "target_object": [
+            "baby carriage",
+            "cone"
+        ],
+        "bbox": [
+            [
+                0.20071206052514465,
+                0.7866666666666666,
+                0.21272808188696038,
+                0.8
+            ],
+            [
+                0.13929684023141967,
+                0.7926666666666666,
+                0.14374721851357367,
+                0.8026666666666666
+            ]
+        ],
+        "answer": "A:The baby carriage is on the right side of the cone.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "Is the red chair on the left or right side of the road?",
+        "options": {
+            "A": "The red chair is on the left side of the road.",
+            "B": "The red chair is on the right side of the road."
+        },
+        "image_id": "sa_25678",
+        "image_format": "jpg",
+        "target_object": [
+            "red chair"
+        ],
+        "bbox": [
+            [
+                0.6471111111111111,
+                0.6553333333333333,
+                0.6546666666666666,
+                0.6713333333333333
+            ]
+        ],
+        "answer": "A:The red chair is on the right side of the road.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "Is the dog on the left or right side of the train?",
+        "options": {
+            "A": "The dog is on the left side of the train.",
+            "B": "The dog is on the right side of the train."
+        },
+        "image_id": "sa_25747",
+        "image_format": "jpg",
+        "target_object": [
+            "dog"
+        ],
+        "bbox": [
+            [
+                0.828,
+                0.5313333333333333,
+                0.8382222222222222,
+                0.552
+            ]
+        ],
+        "answer": "A:The dog is on the right side of the train.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "Is the bell above or below the clock?",
+        "options": {
+            "A": "The bell is above the clock.",
+            "B": "The bell is below the clock."
+        },
+        "image_id": "sa_28639",
+        "image_format": "jpg",
+        "target_object": [
+            "bell",
+            "clock"
+        ],
+        "bbox": [
+            [
+                0.628,
+                0.29281277728482696,
+                0.652,
+                0.32475598935226263
+            ],
+            [
+                0.614,
+                0.21872227151730259,
+                0.656,
+                0.24001774622892635
+            ]
+        ],
+        "answer": "A:The bell is below the clock.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "Is the green surfboard on the left or right side of the purple umbrella?",
+        "options": {
+            "A": "The green surfboard is on the right side of the purple umbrella.",
+            "B": "The green surfboard is on the left side of the purple umbrella."
+        },
+        "image_id": "sa_29022",
+        "image_format": "jpg",
+        "target_object": [
+            "green surfboard",
+            "purple umbrella"
+        ],
+        "bbox": [
+            [
+                0.2816525988449578,
+                0.404,
+                0.29853398489560196,
+                0.4246666666666667
+            ],
+            [
+                0.7756552643269657,
+                0.524,
+                0.8063083074189249,
+                0.556
+            ]
+        ],
+        "answer": "A:The green surfboard is on the left side of the purple umbrella.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "Is the man with yellow cap on the left or right side of the lamp post?",
+        "options": {
+            "A": "The man with yellow cap is on the right side of the lamp post.",
+            "B": "The man with yellow cap is on the left side of the lamp post."
+        },
+        "image_id": "sa_30441",
+        "image_format": "jpg",
+        "target_object": [
+            "man with yellow cap"
+        ],
+        "bbox": [
+            [
+                0.017333333333333333,
+                0.6022222222222222,
+                0.043333333333333335,
+                0.656
+            ]
+        ],
+        "answer": "A:The man with yellow cap is on the left side of the lamp post.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "Is the yellow trash can on the left or right side of the motorcycle?",
+        "options": {
+            "A": "The yellow trash can is on the left side of the motorcycle.",
+            "B": "The yellow trash can is on the right side of the motorcycle."
+        },
+        "image_id": "sa_3053",
+        "image_format": "jpg",
+        "target_object": [
+            "yellow trash can",
+            "motorcycle"
+        ],
+        "bbox": [
+            [
+                0.47757847533632286,
+                0.7793333333333333,
+                0.5094170403587444,
+                0.8586666666666667
+            ],
+            [
+                0.23183856502242153,
+                0.772,
+                0.2748878923766816,
+                0.834
+            ]
+        ],
+        "answer": "A:The yellow trash can is on the right side of the motorcycle.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "Is the man with green shorts on the left or right side of the blue boat?",
+        "options": {
+            "A": "The man with green shorts is on the right side of the blue boat.",
+            "B": "The man with green shorts is on the left side of the blue boat."
+        },
+        "image_id": "sa_31038",
+        "image_format": "jpg",
+        "target_object": [
+            "man with green shorts"
+        ],
+        "bbox": [
+            [
+                0.16266666666666665,
+                0.16533333333333333,
+                0.17422222222222222,
+                0.206
+            ]
+        ],
+        "answer": "A:The man with green shorts is on the left side of the blue boat.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "Is the dog on the left or right side of the golden tower?",
+        "options": {
+            "A": "The dog is on the right side of the golden tower.",
+            "B": "The dog is on the left side of the golden tower."
+        },
+        "image_id": "sa_31586",
+        "image_format": "jpg",
+        "target_object": [
+            "dog"
+        ],
+        "bbox": [
+            [
+                0.2848888888888889,
+                0.6006666666666667,
+                0.2942222222222222,
+                0.622
+            ]
+        ],
+        "answer": "A:The dog is on the left side of the golden tower.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "Is the shovel on the left or right side of the house?",
+        "options": {
+            "A": "The shovel is on the left side of the house.",
+            "B": "The shovel is on the right side of the house."
+        },
+        "image_id": "sa_31784",
+        "image_format": "jpg",
+        "target_object": [
+            "shovel"
+        ],
+        "bbox": [
+            [
+                0.6608888888888889,
+                0.626,
+                0.7164444444444444,
+                0.8066666666666666
+            ]
+        ],
+        "answer": "A:The shovel is on the right side of the house.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "Is the dog on the left or right side of the scooter?",
+        "options": {
+            "A": "The dog is on the right side of the scooter.",
+            "B": "The dog is on the left side of the scooter."
+        },
+        "image_id": "sa_3194",
+        "image_format": "jpg",
+        "target_object": [
+            "dog",
+            "scooter"
+        ],
+        "bbox": [
+            [
+                0.3894080996884735,
+                0.8206666666666667,
+                0.46105919003115264,
+                0.8953333333333333
+            ],
+            [
+                0.7668001780151313,
+                0.6106666666666667,
+                0.8099688473520249,
+                0.6753333333333333
+            ]
+        ],
+        "answer": "A:The dog is on the left side of the scooter.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "Which one is closer to the camera, the water bottle or the vehicle?",
+        "options": {
+            "A": "The vehicle is closer to the camera.",
+            "B": "The water bottle is closer to the camera."
+        },
+        "image_id": "sa_3222",
+        "image_format": "jpg",
+        "target_object": [
+            "water bottle"
+        ],
+        "bbox": [
+            [
+                0.1485,
+                0.59,
+                0.169,
+                0.648
+            ]
+        ],
+        "answer": "A:The water bottle is closer to the camera.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "Is the scooter on the left or right side of the cyclist?",
+        "options": {
+            "A": "The scooter is on the left side of the cyclist.",
+            "B": "The scooter is on the right side of the cyclist."
+        },
+        "image_id": "sa_33280",
+        "image_format": "jpg",
+        "target_object": [
+            "scooter",
+            "cyclist"
+        ],
+        "bbox": [
+            [
+                0.8890845070422535,
+                0.5086666666666667,
+                0.9046780684104627,
+                0.5846666666666667
+            ],
+            [
+                0.12248490945674044,
+                0.5086666666666667,
+                0.1340543259557344,
+                0.5633333333333334
+            ]
+        ],
+        "answer": "A:The scooter is on the right side of the cyclist.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "Is the silver vehicle on the left or right side of the red vehicle?",
+        "options": {
+            "A": "The silver vehicle is on the right side of the red vehicle.",
+            "B": "The silver vehicle is on the left side of the red vehicle."
+        },
+        "image_id": "sa_34291",
+        "image_format": "jpg",
+        "target_object": [
+            "silver vehicle",
+            "red vehicle"
+        ],
+        "bbox": [
+            [
+                0.03688888888888889,
+                0.059333333333333335,
+                0.076,
+                0.086
+            ],
+            [
+                0.28044444444444444,
+                0.010666666666666666,
+                0.3204444444444444,
+                0.036
+            ]
+        ],
+        "answer": "A:The silver vehicle is on the left side of the red vehicle.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "Is the telephone booth on the left or right side of the yellow van?",
+        "options": {
+            "A": "The telephone booth is on the left side of the yellow van.",
+            "B": "The telephone booth is on the right side of the yellow van."
+        },
+        "image_id": "sa_34785",
+        "image_format": "jpg",
+        "target_object": [
+            "yellow van",
+            "telephone booth"
+        ],
+        "bbox": [
+            [
+                0.4017777777777778,
+                0.7766666666666666,
+                0.42177777777777775,
+                0.8073333333333333
+            ],
+            [
+                0.45066666666666666,
+                0.7966666666666666,
+                0.4608888888888889,
+                0.8306666666666667
+            ]
+        ],
+        "answer": "A:The telephone booth is on the right side of the yellow van.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "Is the suitcase on the left or right side of the river?",
+        "options": {
+            "A": "The suitcase is on the right side of the river.",
+            "B": "The suitcase is on the left side of the river."
+        },
+        "image_id": "sa_36787",
+        "image_format": "jpg",
+        "target_object": [
+            "suitcase"
+        ],
+        "bbox": [
+            [
+                0.00892458723784025,
+                0.5066666666666667,
+                0.0392681838464971,
+                0.5846666666666667
+            ]
+        ],
+        "answer": "A:The suitcase is on the left side of the river.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "Is the dog on the left or right side of the bicycle?",
+        "options": {
+            "A": "The dog is on the left side of the bicycle.",
+            "B": "The dog is on the right side of the bicycle."
+        },
+        "image_id": "sa_3796",
+        "image_format": "jpg",
+        "target_object": [
+            "dog",
+            "bicycle"
+        ],
+        "bbox": [
+            [
+                0.37694704049844235,
+                0.7006666666666667,
+                0.4032042723631509,
+                0.7593333333333333
+            ],
+            [
+                0.10636404094348019,
+                0.5246666666666666,
+                0.13618157543391188,
+                0.5726666666666667
+            ]
+        ],
+        "answer": "A:The dog is on the right side of the bicycle.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "Is the soccer ball on the left or right side of the water dispenser?",
+        "options": {
+            "A": "The soccer ball is on the left side of the water dispenser.",
+            "B": "The soccer ball is on the right side of the water dispenser."
+        },
+        "image_id": "sa_40188",
+        "image_format": "jpg",
+        "target_object": [
+            "soccer ball",
+            "water dispenser"
+        ],
+        "bbox": [
+            [
+                0.5952170062001771,
+                0.628,
+                0.6036315323294952,
+                0.6413333333333333
+            ],
+            [
+                0.3379096545615589,
+                0.5106666666666667,
+                0.3467670504871568,
+                0.55
+            ]
+        ],
+        "answer": "A:The soccer ball is on the right side of the water dispenser.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "Is the yellow umbrella on the left or right side of the pink umbrella?",
+        "options": {
+            "A": "The yellow umbrella is on the right side of the pink umbrella.",
+            "B": "The yellow umbrella is on the left side of the pink umbrella."
+        },
+        "image_id": "sa_40555",
+        "image_format": "jpg",
+        "target_object": [
+            "yellow umbrella",
+            "pink umbrella"
+        ],
+        "bbox": [
+            [
+                0.4411653424139236,
+                0.7066666666666667,
+                0.4536511539916761,
+                0.7273333333333334
+            ],
+            [
+                0.4642451759364359,
+                0.6573333333333333,
+                0.4759742716609913,
+                0.676
+            ]
+        ],
+        "answer": "A:The yellow umbrella is on the left side of the pink umbrella.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "Is the vehicle on the left or right side of the blue umbrella?",
+        "options": {
+            "A": "The vehicle is on the right side of the blue umbrella.",
+            "B": "The vehicle is on the left side of the blue umbrella."
+        },
+        "image_id": "sa_40977",
+        "image_format": "jpg",
+        "target_object": [
+            "vehicle",
+            "blue umbrella"
+        ],
+        "bbox": [
+            [
+                0.2786666666666667,
+                0.4713333333333333,
+                0.29688888888888887,
+                0.48333333333333334
+            ],
+            [
+                0.43955555555555553,
+                0.5373333333333333,
+                0.4497777777777778,
+                0.5553333333333333
+            ]
+        ],
+        "answer": "A:The vehicle is on the left side of the blue umbrella.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "Is the red backpack on the left or right side of the clock?",
+        "options": {
+            "A": "The red backpack is on the left side of the clock.",
+            "B": "The red backpack is on the right side of the clock."
+        },
+        "image_id": "sa_4137",
+        "image_format": "jpg",
+        "target_object": [
+            "red backpack",
+            "clock"
+        ],
+        "bbox": [
+            [
+                0.8542222222222222,
+                0.674,
+                0.8826666666666667,
+                0.7253333333333334
+            ],
+            [
+                0.46,
+                0.4613333333333333,
+                0.4915555555555556,
+                0.5026666666666667
+            ]
+        ],
+        "answer": "A:The red backpack is on the right side of the clock.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "Is the cyclist on the left or right side of the sculpture?",
+        "options": {
+            "A": "The cyclist is on the left side of the sculpture.",
+            "B": "The cyclist is on the right side of the sculpture."
+        },
+        "image_id": "sa_41869",
+        "image_format": "jpg",
+        "target_object": [
+            "cyclist"
+        ],
+        "bbox": [
+            [
+                0.6204444444444445,
+                0.586,
+                0.6306666666666667,
+                0.616
+            ]
+        ],
+        "answer": "A:The cyclist is on the right side of the sculpture.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "Is the street lamp on the left or right side of the blue van?",
+        "options": {
+            "A": "The street lamp is on the right side of the blue van.",
+            "B": "The street lamp is on the left side of the blue van."
+        },
+        "image_id": "sa_42676",
+        "image_format": "jpg",
+        "target_object": [
+            "street lamp",
+            "blue van"
+        ],
+        "bbox": [
+            [
+                0.4142222222222222,
+                0.5346666666666666,
+                0.42444444444444446,
+                0.666
+            ],
+            [
+                0.7502222222222222,
+                0.592,
+                0.772,
+                0.6126666666666667
+            ]
+        ],
+        "answer": "A:The street lamp is on the left side of the blue van.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "Is the blue bottle on the left or right side of the carton?",
+        "options": {
+            "A": "The blue bottle is on the right side of the carton.",
+            "B": "The blue bottle is on the left side of the carton."
+        },
+        "image_id": "sa_45802",
+        "image_format": "jpg",
+        "target_object": [
+            "blue bottle",
+            "carton"
+        ],
+        "bbox": [
+            [
+                0.017333333333333333,
+                0.6446666666666667,
+                0.027555555555555555,
+                0.68
+            ],
+            [
+                0.036444444444444446,
+                0.6506666666666666,
+                0.064,
+                0.676
+            ]
+        ],
+        "answer": "A:The blue bottle is on the left side of the carton.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "Is the red balloon above or below the white balloon?",
+        "options": {
+            "A": "The red balloon is above the white balloon.",
+            "B": "The red balloon is below the white balloon."
+        },
+        "image_id": "sa_46221",
+        "image_format": "jpg",
+        "target_object": [
+            "red balloon",
+            "white balloon"
+        ],
+        "bbox": [
+            [
+                0.708,
+                0.506,
+                0.7186666666666667,
+                0.518
+            ],
+            [
+                0.6924444444444444,
+                0.476,
+                0.7017777777777777,
+                0.49133333333333334
+            ]
+        ],
+        "answer": "A:The red balloon is below the white balloon.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "Is the kid with black shirt on the left or right side of the kid with blue shirt?",
+        "options": {
+            "A": "The kid with black shirt is on the right side of the kid with blue shirt.",
+            "B": "The kid with black shirt is on the left side of the kid with blue shirt."
+        },
+        "image_id": "sa_4953",
+        "image_format": "jpg",
+        "target_object": [
+            "kid with black shirt",
+            "kid with blue shirt"
+        ],
+        "bbox": [
+            [
+                0.5311111111111111,
+                0.478,
+                0.5457777777777778,
+                0.5266666666666666
+            ],
+            [
+                0.5528888888888889,
+                0.49733333333333335,
+                0.5657777777777778,
+                0.552
+            ]
+        ],
+        "answer": "A:The kid with black shirt is on the left side of the kid with blue shirt.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "Is the soccer ball on the left or right side of the long bench?",
+        "options": {
+            "A": "The soccer ball is on the right side of the long bench.",
+            "B": "The soccer ball is on the left side of the long bench."
+        },
+        "image_id": "sa_49792",
+        "image_format": "jpg",
+        "target_object": [
+            "soccer ball"
+        ],
+        "bbox": [
+            [
+                0.3952005999250094,
+                0.6693333333333333,
+                0.400824896887889,
+                0.6793333333333333
+            ]
+        ],
+        "answer": "A:The soccer ball is on the left side of the long bench.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "Is the trash can on the left or right side of the black chair?",
+        "options": {
+            "A": "The trash can is on the right side of the black chair.",
+            "B": "The trash can is on the left side of the black chair."
+        },
+        "image_id": "sa_5156",
+        "image_format": "jpg",
+        "target_object": [
+            "trash can",
+            "black chair"
+        ],
+        "bbox": [
+            [
+                0.8746666666666667,
+                0.36577777777777776,
+                0.908,
+                0.3982222222222222
+            ],
+            [
+                0.962,
+                0.372,
+                0.992,
+                0.396
+            ]
+        ],
+        "answer": "A:The trash can is on the left side of the black chair.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "Is the bowl on the left or right side of the faucet?",
+        "options": {
+            "A": "The bowl is on the left side of the faucet.",
+            "B": "The bowl is on the right side of the faucet."
+        },
+        "image_id": "sa_51681",
+        "image_format": "jpg",
+        "target_object": [
+            "faucet",
+            "bowl"
+        ],
+        "bbox": [
+            [
+                0.2826666666666667,
+                0.4126666666666667,
+                0.316,
+                0.47333333333333333
+            ],
+            [
+                0.32622222222222225,
+                0.43733333333333335,
+                0.36844444444444446,
+                0.4653333333333333
+            ]
+        ],
+        "answer": "A:The bowl is on the right side of the faucet.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "Is the shark doll above or below the banana doll?",
+        "options": {
+            "A": "The shark doll is below the banana doll.",
+            "B": "The shark doll is above the banana doll."
+        },
+        "image_id": "sa_52228",
+        "image_format": "jpg",
+        "target_object": [
+            "shark doll",
+            "banana doll"
+        ],
+        "bbox": [
+            [
+                0.688631090487239,
+                0.038,
+                0.7851508120649652,
+                0.12133333333333333
+            ],
+            [
+                0.703016241299304,
+                0.16933333333333334,
+                0.7248259860788863,
+                0.23333333333333334
+            ]
+        ],
+        "answer": "A:The shark doll is above the banana doll.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "Is the volleyball on the left or right side of the man with white cap?",
+        "options": {
+            "A": "The volleyball is on the right side of the man with white cap.",
+            "B": "The volleyball is on the left side of the man with white cap."
+        },
+        "image_id": "sa_53377",
+        "image_format": "jpg",
+        "target_object": [
+            "volleyball",
+            "man with white cap"
+        ],
+        "bbox": [
+            [
+                0.6297777777777778,
+                0.5466666666666666,
+                0.64,
+                0.5613333333333334
+            ],
+            [
+                0.6711111111111111,
+                0.444,
+                0.7004444444444444,
+                0.5613333333333334
+            ]
+        ],
+        "answer": "A:The volleyball is on the left side of the man with white cap.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "Is the seesaw on the left or right side of the red vehicle?",
+        "options": {
+            "A": "The seesaw is on the left side of the red vehicle.",
+            "B": "The seesaw is on the right side of the red vehicle."
+        },
+        "image_id": "sa_53509",
+        "image_format": "jpg",
+        "target_object": [
+            "seesaw",
+            "red vehicle"
+        ],
+        "bbox": [
+            [
+                0.8949880668257757,
+                0.668,
+                0.9604500511421753,
+                0.7186666666666667
+            ],
+            [
+                0.8141834299352199,
+                0.5566666666666666,
+                0.8414592567337198,
+                0.5873333333333334
+            ]
+        ],
+        "answer": "A:The seesaw is on the right side of the red vehicle.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "Is the red vehicle on the left or right side of the sculpture?",
+        "options": {
+            "A": "The red vehicle is on the left side of the sculpture.",
+            "B": "The red vehicle is on the right side of the sculpture."
+        },
+        "image_id": "sa_5465",
+        "image_format": "jpg",
+        "target_object": [
+            "red vehicle"
+        ],
+        "bbox": [
+            [
+                0.8484444444444444,
+                0.4066666666666667,
+                0.8924444444444445,
+                0.42866666666666664
+            ]
+        ],
+        "answer": "A:The red vehicle is on the right side of the sculpture.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "Is the orange luggage on the left or right side of the purple umbrella?",
+        "options": {
+            "A": "The orange luggage is on the left side of the purple umbrella.",
+            "B": "The orange luggage is on the right side of the purple umbrella."
+        },
+        "image_id": "sa_5593",
+        "image_format": "jpg",
+        "target_object": [
+            "orange luggage",
+            "purple umbrella"
+        ],
+        "bbox": [
+            [
+                0.5986666666666667,
+                0.8686666666666667,
+                0.6191111111111111,
+                0.9546666666666667
+            ],
+            [
+                0.07288888888888889,
+                0.7993333333333333,
+                0.11866666666666667,
+                0.8286666666666667
+            ]
+        ],
+        "answer": "A:The orange luggage is on the right side of the purple umbrella.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "Is the dog on the left or right side of the crosswalk?",
+        "options": {
+            "A": "The dog is on the left side of the crosswalk.",
+            "B": "The dog is on the right side of the crosswalk."
+        },
+        "image_id": "sa_5613",
+        "image_format": "jpg",
+        "target_object": [
+            "dog"
+        ],
+        "bbox": [
+            [
+                0.9501779359430605,
+                0.7326666666666667,
+                0.9839857651245552,
+                0.7666666666666667
+            ]
+        ],
+        "answer": "A:The dog is on the right side of the crosswalk.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "Is the bucket on the left or right side of the plunger?",
+        "options": {
+            "A": "The bucket is on the left side of the plunger.",
+            "B": "The bucket is on the right side of the plunger."
+        },
+        "image_id": "sa_56362",
+        "image_format": "jpg",
+        "target_object": [
+            "bucket",
+            "plunger"
+        ],
+        "bbox": [
+            [
+                0.16933333333333334,
+                0.9555555555555556,
+                0.216,
+                0.9964444444444445
+            ],
+            [
+                0.12866666666666668,
+                0.9511111111111111,
+                0.14666666666666667,
+                0.9902222222222222
+            ]
+        ],
+        "answer": "A:The bucket is on the right side of the plunger.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "Is the red suitcase on the left or right side of the red stool?",
+        "options": {
+            "A": "The red suitcase is on the right side of the red stool.",
+            "B": "The red suitcase is on the left side of the red stool."
+        },
+        "image_id": "sa_57152",
+        "image_format": "jpg",
+        "target_object": [
+            "red stool",
+            "red suitcase"
+        ],
+        "bbox": [
+            [
+                0.2802840434419382,
+                0.652,
+                0.28863826232247286,
+                0.6686666666666666
+            ],
+            [
+                0.23809523809523808,
+                0.6533333333333333,
+                0.24895572263993315,
+                0.6726666666666666
+            ]
+        ],
+        "answer": "A:The red suitcase is on the left side of the red stool.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "Is the motorcycle on the left or right side of the street?",
+        "options": {
+            "A": "The motorcycle is on the right side of the street.",
+            "B": "The motorcycle is on the left side of the street."
+        },
+        "image_id": "sa_57960",
+        "image_format": "jpg",
+        "target_object": [
+            "motorcycle"
+        ],
+        "bbox": [
+            [
+                0.8826666666666667,
+                0.6293333333333333,
+                0.904,
+                0.6471111111111111
+            ]
+        ],
+        "answer": "A:The motorcycle is on the left side of the street.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "Is the pillar box on the left or right side of the man with the cane?",
+        "options": {
+            "A": "The pillar box is on the left side of the man with the cane.",
+            "B": "The pillar box is on the right side of the man with the cane."
+        },
+        "image_id": "sa_58331",
+        "image_format": "jpg",
+        "target_object": [
+            "pillar box",
+            "man with the cane"
+        ],
+        "bbox": [
+            [
+                0.9216035634743875,
+                0.7513333333333333,
+                0.9412026726057906,
+                0.8066666666666666
+            ],
+            [
+                0.7576837416481069,
+                0.7573333333333333,
+                0.7888641425389755,
+                0.8646666666666667
+            ]
+        ],
+        "answer": "A:The pillar box is on the right side of the man with the cane.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "Is the shopping cart on the left or right side of the dog?",
+        "options": {
+            "A": "The shopping cart is on the right side of the dog.",
+            "B": "The shopping cart is on the left side of the dog."
+        },
+        "image_id": "sa_59351",
+        "image_format": "jpg",
+        "target_object": [
+            "shopping cart",
+            "dog"
+        ],
+        "bbox": [
+            [
+                0.6746666666666666,
+                0.6766666666666666,
+                0.7057777777777777,
+                0.7233333333333334
+            ],
+            [
+                0.7448888888888889,
+                0.698,
+                0.768,
+                0.7293333333333333
+            ]
+        ],
+        "answer": "A:The shopping cart is on the left side of the dog.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "Is the trash can on the left or right side of the baby carriage?",
+        "options": {
+            "A": "The trash can is on the left side of the baby carriage.",
+            "B": "The trash can is on the right side of the baby carriage."
+        },
+        "image_id": "sa_61121",
+        "image_format": "jpg",
+        "target_object": [
+            "baby carriage",
+            "trash can"
+        ],
+        "bbox": [
+            [
+                0.5635555555555556,
+                0.6193333333333333,
+                0.5791111111111111,
+                0.644
+            ],
+            [
+                0.6795555555555556,
+                0.6233333333333333,
+                0.6937777777777778,
+                0.6466666666666666
+            ]
+        ],
+        "answer": "A:The trash can is on the right side of the baby carriage.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "Is the keyboard on the left or right side of the guitar?",
+        "options": {
+            "A": "The keyboard is on the right side of the guitar.",
+            "B": "The keyboard is on the left side of the guitar."
+        },
+        "image_id": "sa_61594",
+        "image_format": "jpg",
+        "target_object": [
+            "keyboard",
+            "guitar"
+        ],
+        "bbox": [
+            [
+                0.5585625554569654,
+                0.5006666666666667,
+                0.59849157054126,
+                0.5106666666666667
+            ],
+            [
+                0.6410825199645075,
+                0.48933333333333334,
+                0.6570541259982253,
+                0.536
+            ]
+        ],
+        "answer": "A:The keyboard is on the left side of the guitar.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "Is the motorcycle on the left or right side of the dog?",
+        "options": {
+            "A": "The motorcycle is on the right side of the dog.",
+            "B": "The motorcycle is on the left side of the dog."
+        },
+        "image_id": "sa_6183",
+        "image_format": "jpg",
+        "target_object": [
+            "dog",
+            "motorcycle"
+        ],
+        "bbox": [
+            [
+                0.6472419928825622,
+                0.868,
+                0.699288256227758,
+                0.9193333333333333
+            ],
+            [
+                0.304270462633452,
+                0.63,
+                0.3709964412811388,
+                0.7033333333333334
+            ]
+        ],
+        "answer": "A:The motorcycle is on the left side of the dog.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "Is the switch on the left or right side of the towel?",
+        "options": {
+            "A": "The switch is on the left side of the towel.",
+            "B": "The switch is on the right side of the towel."
+        },
+        "image_id": "sa_62287",
+        "image_format": "jpg",
+        "target_object": [
+            "towel",
+            "switch"
+        ],
+        "bbox": [
+            [
+                0.226,
+                0.472,
+                0.324,
+                0.5693333333333334
+            ],
+            [
+                0.5173333333333333,
+                0.39555555555555555,
+                0.5406666666666666,
+                0.4182222222222222
+            ]
+        ],
+        "answer": "A:The switch is on the right side of the towel.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "Is the pillar box on the left or right side of the telephone booth?",
+        "options": {
+            "A": "The pillar box is on the left side of the telephone booth.",
+            "B": "The pillar box is on the right side of the telephone booth."
+        },
+        "image_id": "sa_62783",
+        "image_format": "jpg",
+        "target_object": [
+            "telephone booth",
+            "pillar box"
+        ],
+        "bbox": [
+            [
+                0.23581560283687944,
+                0.6886666666666666,
+                0.2548758865248227,
+                0.7546666666666667
+            ],
+            [
+                0.3519503546099291,
+                0.7153333333333334,
+                0.3625886524822695,
+                0.7533333333333333
+            ]
+        ],
+        "answer": "A:The pillar box is on the right side of the telephone booth.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "Is the motorcyclist on the left or right side of the truck?",
+        "options": {
+            "A": "The motorcyclist is on the right side of the truck.",
+            "B": "The motorcyclist is on the left side of the truck."
+        },
+        "image_id": "sa_64142",
+        "image_format": "jpg",
+        "target_object": [
+            "motorcyclist"
+        ],
+        "bbox": [
+            [
+                0.08622222222222223,
+                0.4666666666666667,
+                0.09733333333333333,
+                0.49333333333333335
+            ]
+        ],
+        "answer": "A:The motorcyclist is on the left side of the truck.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "Is the baby carriage on the left or right side of the cyclist?",
+        "options": {
+            "A": "The baby carriage is on the left side of the cyclist.",
+            "B": "The baby carriage is on the right side of the cyclist."
+        },
+        "image_id": "sa_64257",
+        "image_format": "jpg",
+        "target_object": [
+            "cyclist",
+            "baby carriage"
+        ],
+        "bbox": [
+            [
+                0.2585812356979405,
+                0.58,
+                0.2707856598016781,
+                0.608
+            ],
+            [
+                0.6937452326468345,
+                0.5786666666666667,
+                0.7105263157894737,
+                0.596
+            ]
+        ],
+        "answer": "A:The baby carriage is on the right side of the cyclist.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "Is the green statue on the left or right side of the white statue?",
+        "options": {
+            "A": "The green statue is on the right side of the white statue.",
+            "B": "The green statue is on the left side of the white statue."
+        },
+        "image_id": "sa_64554",
+        "image_format": "jpg",
+        "target_object": [
+            "white statue",
+            "green statue"
+        ],
+        "bbox": [
+            [
+                0.5337748344370861,
+                0.702,
+                0.5461368653421633,
+                0.7573333333333333
+            ],
+            [
+                0.01545253863134658,
+                0.7186666666666667,
+                0.024724061810154525,
+                0.7553333333333333
+            ]
+        ],
+        "answer": "A:The green statue is on the left side of the white statue.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "Which one is closer to the camera, the black vehicle or the silver vehicle?",
+        "options": {
+            "A": "The silver vehicle is closer to the camera.",
+            "B": "The black vehicle is closer to the camera."
+        },
+        "image_id": "sa_6531",
+        "image_format": "jpg",
+        "target_object": [
+            "black vehicle",
+            "silver vehicle"
+        ],
+        "bbox": [
+            [
+                0.6182222222222222,
+                0.49933333333333335,
+                0.644,
+                0.5326666666666666
+            ],
+            [
+                0.6502222222222223,
+                0.4746666666666667,
+                0.6831111111111111,
+                0.5006666666666667
+            ]
+        ],
+        "answer": "A:The black vehicle is closer to the camera.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "Is the yellow car on the left or right side of the pool?",
+        "options": {
+            "A": "The yellow car is on the right side of the pool.",
+            "B": "The yellow car is on the left side of the pool."
+        },
+        "image_id": "sa_65606",
+        "image_format": "jpg",
+        "target_object": [
+            "yellow car"
+        ],
+        "bbox": [
+            [
+                0.24443785226935627,
+                0.8342541436464088,
+                0.25393058439632155,
+                0.8522099447513812
+            ]
+        ],
+        "answer": "A:The yellow car is on the left side of the pool.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "Is the white truck on the left or right side of the red truck?",
+        "options": {
+            "A": "The white truck is on the left side of the red truck.",
+            "B": "The white truck is on the right side of the red truck."
+        },
+        "image_id": "sa_65804",
+        "image_format": "jpg",
+        "target_object": [
+            "white truck",
+            "red truck"
+        ],
+        "bbox": [
+            [
+                0.5547844374342797,
+                0.412,
+                0.5617245005257624,
+                0.424
+            ],
+            [
+                0.023974763406940065,
+                0.49066666666666664,
+                0.03533123028391167,
+                0.5053333333333333
+            ]
+        ],
+        "answer": "A:The white truck is on the right side of the red truck.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "Is the green handbag on the left or right side of the blue umbrella?",
+        "options": {
+            "A": "The green handbag is on the right side of the blue umbrella.",
+            "B": "The green handbag is on the left side of the blue umbrella."
+        },
+        "image_id": "sa_6887",
+        "image_format": "jpg",
+        "target_object": [
+            "green handbag",
+            "blue umbrella"
+        ],
+        "bbox": [
+            [
+                0.280053428317008,
+                0.6413333333333333,
+                0.29697239536954584,
+                0.6746666666666666
+            ],
+            [
+                0.6522707034728406,
+                0.5813333333333334,
+                0.7025823686553874,
+                0.6353333333333333
+            ]
+        ],
+        "answer": "A:The green handbag is on the left side of the blue umbrella.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "Is the dog on the left or right side of the blue bicycle?",
+        "options": {
+            "A": "The dog is on the left side of the blue bicycle.",
+            "B": "The dog is on the right side of the blue bicycle."
+        },
+        "image_id": "sa_69550",
+        "image_format": "jpg",
+        "target_object": [
+            "dog",
+            "blue bicycle"
+        ],
+        "bbox": [
+            [
+                0.416,
+                0.5462222222222223,
+                0.426,
+                0.5555555555555556
+            ],
+            [
+                0.37933333333333336,
+                0.536,
+                0.398,
+                0.5568888888888889
+            ]
+        ],
+        "answer": "A:The dog is on the right side of the blue bicycle.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "Is the person with white trousers on the left or right side of the person in blue?",
+        "options": {
+            "A": "The person with white trousers is on the right side of the person in blue.",
+            "B": "The person with white trousers is on the left side of the person in blue."
+        },
+        "image_id": "sa_69634",
+        "image_format": "jpg",
+        "target_object": [
+            "person in blue",
+            "person with white trousers"
+        ],
+        "bbox": [
+            [
+                0.154,
+                0.254,
+                0.165,
+                0.276
+            ],
+            [
+                0.104,
+                0.26666666666666666,
+                0.1155,
+                0.3
+            ]
+        ],
+        "answer": "A:The person with white trousers is on the left side of the person in blue.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "Is the telephone on the left or right side of the hand lamp?",
+        "options": {
+            "A": "The telephone is on the left side of the hand lamp.",
+            "B": "The telephone is on the right side of the hand lamp."
+        },
+        "image_id": "sa_69962",
+        "image_format": "jpg",
+        "target_object": [
+            "hand lamp",
+            "telephone"
+        ],
+        "bbox": [
+            [
+                0.6571809693196976,
+                0.25733333333333336,
+                0.6851934192974656,
+                0.338
+            ],
+            [
+                0.7905735882614495,
+                0.21533333333333332,
+                0.8572698977323254,
+                0.30533333333333335
+            ]
+        ],
+        "answer": "A:The telephone is on the right side of the hand lamp.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "Is the broom on the left or right side of the folded chair?",
+        "options": {
+            "A": "The broom is on the right side of the folded chair.",
+            "B": "The broom is on the left side of the folded chair."
+        },
+        "image_id": "sa_71151",
+        "image_format": "jpg",
+        "target_object": [
+            "broom",
+            "folded chair"
+        ],
+        "bbox": [
+            [
+                0.3,
+                0.482,
+                0.32755555555555554,
+                0.6333333333333333
+            ],
+            [
+                0.32355555555555554,
+                0.5066666666666667,
+                0.376,
+                0.65
+            ]
+        ],
+        "answer": "A:The broom is on the left side of the folded chair.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "Is the drum on the left or right side of the yellow balloon?",
+        "options": {
+            "A": "The drum is on the right side of the yellow balloon.",
+            "B": "The drum is on the left side of the yellow balloon."
+        },
+        "image_id": "sa_7228",
+        "image_format": "jpg",
+        "target_object": [
+            "drum"
+        ],
+        "bbox": [
+            [
+                0.06020362992474546,
+                0.5566666666666666,
+                0.10048694112439133,
+                0.61
+            ]
+        ],
+        "answer": "A:The drum is on the left side of the yellow balloon.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "Is the blue mask on the left or right side of the black mask?",
+        "options": {
+            "A": "The blue mask is on the right side of the black mask.",
+            "B": "The blue mask is on the left side of the black mask."
+        },
+        "image_id": "sa_7621",
+        "image_format": "jpg",
+        "target_object": [
+            "blue mask",
+            "black mask"
+        ],
+        "bbox": [
+            [
+                0.312,
+                0.258,
+                0.34355555555555556,
+                0.3253333333333333
+            ],
+            [
+                0.6475555555555556,
+                0.27266666666666667,
+                0.6857777777777778,
+                0.31266666666666665
+            ]
+        ],
+        "answer": "A:The blue mask is on the left side of the black mask.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "Is the sky wheel on the left or right side of the person on the horse?",
+        "options": {
+            "A": "The sky wheel is on the left side of the person on the horse.",
+            "B": "The sky wheel is on the right side of the person on the horse."
+        },
+        "image_id": "sa_7626",
+        "image_format": "jpg",
+        "target_object": [
+            "sky wheel",
+            "person on the horse"
+        ],
+        "bbox": [
+            [
+                0.9449570474069361,
+                0.6664110429447853,
+                0.9675469296850143,
+                0.7553680981595092
+            ],
+            [
+                0.8001909004136175,
+                0.7829754601226994,
+                0.8062360801781737,
+                0.8013803680981595
+            ]
+        ],
+        "answer": "A:The sky wheel is on the right side of the person on the horse.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "Is the slide on the left or right side of the life buoy?",
+        "options": {
+            "A": "The slide is on the left side of the life buoy.",
+            "B": "The slide is on the right side of the life buoy."
+        },
+        "image_id": "sa_77731",
+        "image_format": "jpg",
+        "target_object": [
+            "slide",
+            "life buoy"
+        ],
+        "bbox": [
+            [
+                0.5535,
+                0.462,
+                0.6945,
+                0.5613333333333334
+            ],
+            [
+                0.2005,
+                0.492,
+                0.2155,
+                0.5153333333333333
+            ]
+        ],
+        "answer": "A:The slide is on the right side of the life buoy.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "Is the wristband on the left or right side of the dog?",
+        "options": {
+            "A": "The wristband is on the right side of the dog.",
+            "B": "The wristband is on the left side of the dog."
+        },
+        "image_id": "sa_7826",
+        "image_format": "jpg",
+        "target_object": [
+            "wristband",
+            "dog"
+        ],
+        "bbox": [
+            [
+                0.08266666666666667,
+                0.44692737430167595,
+                0.096,
+                0.4581005586592179
+            ],
+            [
+                0.432,
+                0.5875232774674115,
+                0.5453333333333333,
+                0.6266294227188082
+            ]
+        ],
+        "answer": "A:The wristband is on the left side of the dog.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "Is the white chair on the left or right side of the street?",
+        "options": {
+            "A": "The white chair is on the left side of the street.",
+            "B": "The white chair is on the right side of the street."
+        },
+        "image_id": "sa_78272",
+        "image_format": "jpg",
+        "target_object": [
+            "white chair"
+        ],
+        "bbox": [
+            [
+                0.7803776683087028,
+                0.7913333333333333,
+                0.8181444991789819,
+                0.8646666666666667
+            ]
+        ],
+        "answer": "A:The white chair is on the right side of the street.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "Is the baby stroller on the left or right side of the person in orange?",
+        "options": {
+            "A": "The baby stroller is on the left side of the person in orange.",
+            "B": "The baby stroller is on the right side of the person in orange."
+        },
+        "image_id": "sa_79349",
+        "image_format": "jpg",
+        "target_object": [
+            "baby stroller",
+            "person in orange"
+        ],
+        "bbox": [
+            [
+                0.2897777777777778,
+                0.57,
+                0.3035555555555556,
+                0.5926666666666667
+            ],
+            [
+                0.18222222222222223,
+                0.56,
+                0.19466666666666665,
+                0.588
+            ]
+        ],
+        "answer": "A:The baby stroller is on the right side of the person in orange.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "Is the steel ladder on the left or right side of the wagon?",
+        "options": {
+            "A": "The steel ladder is on the right side of the wagon.",
+            "B": "The steel ladder is on the left side of the wagon."
+        },
+        "image_id": "sa_79958",
+        "image_format": "jpg",
+        "target_object": [
+            "steel ladder",
+            "wagon"
+        ],
+        "bbox": [
+            [
+                0.4372788045615415,
+                0.4573333333333333,
+                0.44553676759732597,
+                0.4886666666666667
+            ],
+            [
+                0.5289028706252458,
+                0.554,
+                0.554463232402674,
+                0.5746666666666667
+            ]
+        ],
+        "answer": "A:The steel ladder is on the left side of the wagon.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "Is the blue bench on the left or right side of the green door?",
+        "options": {
+            "A": "The blue bench is on the right side of the green door.",
+            "B": "The blue bench is on the left side of the green door."
+        },
+        "image_id": "sa_80084",
+        "image_format": "jpg",
+        "target_object": [
+            "blue bench"
+        ],
+        "bbox": [
+            [
+                0.2568888888888889,
+                0.6673333333333333,
+                0.2991111111111111,
+                0.7313333333333333
+            ]
+        ],
+        "answer": "A:The blue bench is on the left side of the green door.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "Is the blue luggage on the left or right side of the bus?",
+        "options": {
+            "A": "The blue luggage is on the left side of the bus.",
+            "B": "The blue luggage is on the right side of the bus."
+        },
+        "image_id": "sa_83235",
+        "image_format": "jpg",
+        "target_object": [
+            "blue luggage"
+        ],
+        "bbox": [
+            [
+                0.8942222222222223,
+                0.606,
+                0.9217777777777778,
+                0.6373333333333333
+            ]
+        ],
+        "answer": "A:The blue luggage is on the right side of the bus.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "Is the bucket on the left or right side of the cyclist?",
+        "options": {
+            "A": "The bucket is on the left side of the cyclist.",
+            "B": "The bucket is on the right side of the cyclist."
+        },
+        "image_id": "sa_86732",
+        "image_format": "jpg",
+        "target_object": [
+            "bucket",
+            "cyclist"
+        ],
+        "bbox": [
+            [
+                0.714178544636159,
+                0.604,
+                0.7314328582145536,
+                0.64
+            ],
+            [
+                0.33083270817704424,
+                0.5993333333333334,
+                0.3390847711927982,
+                0.6406666666666667
+            ]
+        ],
+        "answer": "A:The bucket is on the right side of the cyclist.",
+        "output_with_1.0_False_1": "A"
+    },
+    {
+        "dataset": "vstar",
+        "question": "Is the green bucket on the left or right side of the red tent?",
+        "options": {
+            "A": "The green bucket is on the right side of the red tent.",
+            "B": "The green bucket is on the left side of the red tent."
+        },
+        "image_id": "sa_87051",
+        "image_format": "jpg",
+        "target_object": [
+            "green bucket"
+        ],
+        "bbox": [
+            [
+                0.020444444444444446,
+                0.6926666666666667,
+                0.04488888888888889,
+                0.7226666666666667
+            ]
+        ],
+        "answer": "A:The green bucket is on the left side of the red tent.",
+        "output_with_1.0_False_1": "A"
+    }
+]
